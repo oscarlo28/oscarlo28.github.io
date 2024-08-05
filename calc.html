@@ -40,7 +40,7 @@
             color: #ffffff;
             font-weight: 700;
             position: fixed;
-            top: 60px; /* Adjust this value to control the distance from the top */
+            top: 60px;
             width: 100%;
             z-index: 1000;
             background-color: #FD487E;
@@ -48,15 +48,19 @@
         }
         .result-label {
             text-align: center;
+            font-size: 20px;
             color: #ffffff;
-            margin-bottom: 20px;
-            margin-top: 140px; /* Adjust this value to ensure proper spacing below the fixed result */
+            position: fixed;
+            top: 130px;
+            width: 100%;
+            z-index: 1000;
+            background-color: #FD487E;
+            padding: 10px 0;
         }
         .content {
             width: 96%;
             max-width: 400px;
-            margin-top: 20px;
-            /* Added margin-bottom to prevent overlap with footer */
+            margin-top: 180px;
         }
         .input-field {
             margin-bottom: 20px;
@@ -227,20 +231,30 @@
     <script>
         let history = [];
 
+        document.addEventListener('DOMContentLoaded', () => {
+            if (localStorage.getItem('history')) {
+                history = JSON.parse(localStorage.getItem('history'));
+                updateHistoryList();
+            }
+        });
+
         function showTab(tab) {
             document.querySelectorAll('.footer i').forEach(el => el.classList.remove('active'));
             document.querySelectorAll('.content').forEach(el => el.style.display = 'none');
-            document.getElementById('result-label').style.display = 'none';
+            document.querySelector('.result').style.display = 'none';
+            document.querySelector('.result-label').style.display = 'none';
             document.querySelector(`[onclick="showTab('${tab}')"]`).classList.add('active');
             document.getElementById(tab).style.display = 'block';
 
             if (tab === 'salario') {
-                document.getElementById('result-label').innerText = 'Precio de Horas';
-                document.getElementById('result-label').style.display = 'block';
+                document.querySelector('.result-label').innerText = 'Precio de Horas';
+                document.querySelector('.result').style.display = 'block';
+                document.querySelector('.result-label').style.display = 'block';
                 calculateHourlyRate();
             } else if (tab === 'trabajo') {
-                document.getElementById('result-label').innerText = 'Precio de Trabajo';
-                document.getElementById('result-label').style.display = 'block';
+                document.querySelector('.result-label').innerText = 'Precio de Trabajo';
+                document.querySelector('.result').style.display = 'block';
+                document.querySelector('.result-label').style.display = 'block';
                 calculateTotalCost();
             } else if (tab === 'historial') {
                 updateHistoryList();
@@ -298,6 +312,7 @@
                 };
 
                 history.push(work);
+                localStorage.setItem('history', JSON.stringify(history));
                 updateHistoryList();
                 alert("Trabajo guardado correctamente.");
             }
@@ -339,6 +354,7 @@
 
         function deleteWork(index) {
             history.splice(index, 1);
+            localStorage.setItem('history', JSON.stringify(history));
             updateHistoryList();
         }
     </script>
