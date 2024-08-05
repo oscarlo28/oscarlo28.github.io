@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +9,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        :root {
+            --primary-color: #FD487E;
+            --secondary-color: #C72E50;
+            --text-color: #ffffff;
+        }
+
         body {
-            background-color: #FD487E;
-            color: #ffffff;
+            background-color: var(--primary-color);
+            color: var(--text-color);
             font-family: 'Roboto', sans-serif;
             display: flex;
             flex-direction: column;
@@ -20,116 +27,129 @@
             padding: 24px;
             box-sizing: border-box;
         }
+
         header {
             width: 100%;
             text-align: center;
             padding: 10px 0;
-            background: #FD487E;
+            background: var(--primary-color);
             position: fixed;
             top: 0;
             z-index: 1000;
         }
+
         header h1 {
             margin: 0;
             font-size: 24px;
-            color: #ffffff;
+            color: var(--text-color);
         }
+
+        .result-container {
+            display: flex;
+            margin-top: 40px;
+            flex-direction: column;
+            align-items: center;
+            padding-bottom: 10px;
+        }
+
         .result {
             text-align: center;
             font-size: 52px;
-            color: #ffffff;
+            color: var(--text-color);
             font-weight: 700;
-            position: fixed;
-            top: 60px;
-            width: 100%;
-            z-index: 1000;
-            background-color: #FD487E;
-            padding: 10px 0;
+            padding: 4px 0;
         }
+
         .result-label {
             text-align: center;
-            font-size: 20px;
-            color: #ffffff;
-            position: fixed;
-            top: 130px;
-            width: 100%;
-            z-index: 1000;
-            background-color: #FD487E;
-            padding: 10px 0;
+            font-size: 16px;
+            color: var(--text-color);
         }
+
         .content {
             width: 96%;
             max-width: 400px;
             margin-top: 180px;
         }
+
         .input-field {
             margin-bottom: 20px;
             position: relative;
         }
+
         .input-field input {
             width: 100%;
             height: 52px;
-            border: 1px solid #ffffff;
+            border: 1px solid var(--text-color);
             border-radius: 5px;
             font-size: 16px;
-            color: #ffffff;
+            color: var(--text-color);
             background: transparent;
+            padding: 0 10px;
         }
+
         .input-field label {
             font-size: 14px;
-            color: #ffffff;
+            color: var(--text-color);
             display: block;
             margin-bottom: 5px;
         }
+
         .slider-container {
             margin: 10px 0;
         }
+
         .slider-container input[type=range] {
             width: 100%;
             -webkit-appearance: none;
             appearance: none;
             height: 8px;
             border-radius: 5px;
-            background: #ffffff;
+            background: var(--text-color);
             outline: none;
             opacity: 0.7;
             transition: opacity .2s;
         }
+
         .slider-container input[type=range]:hover {
             opacity: 1;
         }
+
         .slider-container input[type=range]::-webkit-slider-thumb {
             -webkit-appearance: none;
             appearance: none;
             width: 25px;
             height: 25px;
             border-radius: 50%;
-            background: #C72E50;
+            background: var(--secondary-color);
             cursor: pointer;
         }
+
         .slider-container input[type=range]::-moz-range-thumb {
             width: 25px;
             height: 25px;
             border-radius: 50%;
-            background: #C72E50;
+            background: var(--secondary-color);
             cursor: pointer;
         }
+
         .btn-save {
             width: 100%;
-            background-color: #ffffff;
+            background-color: var(--text-color);
             border: none;
             border-radius: 20px;
             padding: 10px;
             font-size: 16px;
             font-weight: 700;
-            color: #FD487E;
+            color: var(--primary-color);
             cursor: pointer;
             margin-bottom: 80px;
             margin-top: 32px;
         }
+
         .history-entry {
-            background: #ffffff;
-            color: #FD487E;
+            background: var(--text-color);
+            color: var(--primary-color);
             margin: 10px 0;
             padding: 10px;
             border-radius: 5px;
@@ -138,83 +158,107 @@
             align-items: center;
             cursor: pointer;
         }
+
         .history-entry-details {
             display: none;
             flex-direction: column;
             align-items: flex-start;
         }
+
         .history-entry h4 {
             margin: 0;
             font-size: 18px;
         }
+
         .history-entry p {
             margin: 0;
             font-size: 16px;
         }
+
         .footer {
             width: 100%;
-            background-color: #C72E50;
+            background-color: var(--secondary-color);
             position: fixed;
             bottom: 0;
             display: flex;
             justify-content: space-around;
             padding: 10px 0;
-            border-top: 1px solid #ffffff;
+            border-top: 1px solid var(--text-color);
             z-index: 1000;
         }
+
         .footer i {
-            color: #ffffff;
+            color: var(--text-color);
             font-size: 24px;
             cursor: pointer;
         }
+
         .footer i.active {
-            color: #ffffff;
+            color: var(--text-color);
+        }
+
+        #historial .result-label {
+            text-align: center;
+            width: 100%;
         }
     </style>
 </head>
+
 <body>
     <header>
         <h1>Katlin Atelier</h1>
+        <div class="result-container">
+            <div class="result">$0.00</div>
+            <div class="result-label" id="result-label">Precio de Horas</div>
+        </div>
     </header>
-    <div class="result">$0.00</div>
-    <div class="result-label" id="result-label">Precio de Horas</div>
     <div class="content" id="salario">
         <div class="input-field">
             <label for="monthlySalary">Salario Mensual</label>
-            <input type="number" id="monthlySalary" class="form-control" inputmode="numeric" pattern="[0-9]*" oninput="calculateHourlyRate()">
+            <input type="number" id="monthlySalary" class="form-control" inputmode="numeric" pattern="[0-9]*"
+                oninput="calculateHourlyRate()">
         </div>
         <div class="slider-container">
-            <input type="range" id="monthlySalarySlider" min="0" max="100000" step="1000" value="0" oninput="updateInputValue('monthlySalary', this.value); calculateHourlyRate()">
+            <input type="range" id="monthlySalarySlider" min="0" max="100000" step="1000" value="0"
+                oninput="updateInputValue('monthlySalary', this.value); calculateHourlyRate()">
         </div>
     </div>
     <div class="content" id="trabajo" style="display:none;">
         <div class="input-field">
             <label for="hoursWorked">Horas Trabajadas</label>
-            <input type="number" id="hoursWorked" class="form-control" inputmode="numeric" pattern="[0-9]*" oninput="calculateTotalCost()">
+            <input type="number" id="hoursWorked" class="form-control" inputmode="numeric" pattern="[0-9]*"
+                oninput="calculateTotalCost()">
         </div>
         <div class="slider-container">
-            <input type="range" id="hoursWorkedSlider" min="0" max="200" step="1" value="0" oninput="updateInputValue('hoursWorked', this.value); calculateTotalCost()">
+            <input type="range" id="hoursWorkedSlider" min="0" max="200" step="1" value="0"
+                oninput="updateInputValue('hoursWorked', this.value); calculateTotalCost()">
         </div>
         <div class="input-field">
             <label for="hourlyWage">Precio por Hora</label>
-            <input type="number" id="hourlyWage" class="form-control" inputmode="numeric" pattern="[0-9]*" oninput="calculateTotalCost()">
+            <input type="number" id="hourlyWage" class="form-control" inputmode="numeric" pattern="[0-9]*"
+                oninput="calculateTotalCost()">
         </div>
         <div class="slider-container">
-            <input type="range" id="hourlyWageSlider" min="0" max="500" step="10" value="0" oninput="updateInputValue('hourlyWage', this.value); calculateTotalCost()">
+            <input type="range" id="hourlyWageSlider" min="0" max="500" step="10" value="0"
+                oninput="updateInputValue('hourlyWage', this.value); calculateTotalCost()">
         </div>
         <div class="input-field">
             <label for="materialCost">Precio de Materiales</label>
-            <input type="number" id="materialCost" class="form-control" inputmode="numeric" pattern="[0-9]*" oninput="calculateTotalCost()">
+            <input type="number" id="materialCost" class="form-control" inputmode="numeric" pattern="[0-9]*"
+                oninput="calculateTotalCost()">
         </div>
         <div class="slider-container">
-            <input type="range" id="materialCostSlider" min="0" max="10000" step="100" value="0" oninput="updateInputValue('materialCost', this.value); calculateTotalCost()">
+            <input type="range" id="materialCostSlider" min="0" max="10000" step="100" value="0"
+                oninput="updateInputValue('materialCost', this.value); calculateTotalCost()">
         </div>
         <div class="input-field">
             <label for="transportCost">Precio de Transporte</label>
-            <input type="number" id="transportCost" class="form-control" inputmode="numeric" pattern="[0-9]*" oninput="calculateTotalCost()">
+            <input type="number" id="transportCost" class="form-control" inputmode="numeric" pattern="[0-9]*"
+                oninput="calculateTotalCost()">
         </div>
         <div class="slider-container">
-            <input type="range" id="transportCostSlider" min="0" max="1000" step="10" value="0" oninput="updateInputValue('transportCost', this.value); calculateTotalCost()">
+            <input type="range" id="transportCostSlider" min="0" max="1000" step="10" value="0"
+                oninput="updateInputValue('transportCost', this.value); calculateTotalCost()">
         </div>
         <button class="btn-save" onclick="saveWork()">Guardar</button>
     </div>
@@ -223,9 +267,9 @@
         <div id="historyList"></div>
     </div>
     <div class="footer">
-        <i class="material-icons" onclick="showTab('salario')">attach_money</i>
-        <i class="material-icons" onclick="showTab('trabajo')">point_of_sale</i>
-        <i class="material-icons" onclick="showTab('historial')">history</i>
+        <i class="material-icons" onclick="showTab('salario')" aria-label="Salario">attach_money</i>
+        <i class="material-icons" onclick="showTab('trabajo')" aria-label="Trabajo">point_of_sale</i>
+        <i class="material-icons" onclick="showTab('historial')" aria-label="Historial">history</i>
     </div>
 
     <script>
@@ -336,7 +380,7 @@
                             <p>Precio de Transporte: ${work.transportCost}</p>
                         </div>
                     </div>
-                    <i class="material-icons" onclick="deleteWork(${index})">delete</i>
+                    <i class="material-icons" onclick="deleteWork(${index})" aria-label="Delete work">delete</i>
                 `;
                 entry.addEventListener('click', (e) => {
                     if (e.target.tagName !== 'I') {
@@ -359,4 +403,5 @@
         }
     </script>
 </body>
+
 </html>
