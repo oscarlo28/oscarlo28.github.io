@@ -1,0 +1,32 @@
+<!-- public/waiter.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waiter Page</title>
+</head>
+<body>
+    <h1>Waiter Notifications</h1>
+    <div id="notifications"></div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const socket = io();
+
+        socket.on('callWaiter', (data) => {
+            const notificationsDiv = document.getElementById('notifications');
+            const notification = document.createElement('div');
+            notification.innerText = `${data.tableName} is calling the waiter.`;
+            notificationsDiv.appendChild(notification);
+
+            const audio = new Audio('notification_sound.mp3');
+            audio.play().then(() => {
+                console.log('Audio played successfully');
+            }).catch((error) => {
+                console.error('Error playing audio:', error);
+            });
+        });
+    </script>
+</body>
+</html>
