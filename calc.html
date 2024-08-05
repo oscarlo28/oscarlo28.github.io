@@ -77,7 +77,8 @@
             position: relative;
         }
 
-        .input-field input {
+        .input-field input,
+        .input-field select {
             width: 100%;
             height: 52px;
             border: 1px solid var(--text-color);
@@ -175,6 +176,10 @@
             font-size: 16px;
         }
 
+        .history-entry-details p {
+            margin: 12px 0 0;
+        }
+
         .footer {
             width: 100%;
             background-color: var(--secondary-color);
@@ -260,6 +265,14 @@
             <input type="range" id="transportCostSlider" min="0" max="1000" step="10" value="0"
                 oninput="updateInputValue('transportCost', this.value); calculateTotalCost()">
         </div>
+        <div class="input-field">
+            <label for="startDate">Fecha de Inicio</label>
+            <input type="date" id="startDate" class="form-control">
+        </div>
+        <div class="input-field">
+            <label for="endDate">Fecha de Entrega</label>
+            <input type="date" id="endDate" class="form-control">
+        </div>
         <button class="btn-save" onclick="saveWork()">Guardar</button>
     </div>
     <div class="content" id="historial" style="display:none;">
@@ -344,6 +357,8 @@
                 const hourlyWage = document.getElementById('hourlyWage').value;
                 const materialCost = document.getElementById('materialCost').value;
                 const transportCost = document.getElementById('transportCost').value;
+                const startDate = document.getElementById('startDate').value;
+                const endDate = document.getElementById('endDate').value;
                 const totalCost = document.querySelector('.result').innerText;
 
                 const work = {
@@ -352,6 +367,8 @@
                     hourlyWage,
                     materialCost,
                     transportCost,
+                    startDate,
+                    endDate,
                     totalCost
                 };
 
@@ -378,6 +395,8 @@
                             <p>Precio por Hora: ${work.hourlyWage}</p>
                             <p>Precio de Materiales: ${work.materialCost}</p>
                             <p>Precio de Transporte: ${work.transportCost}</p>
+                            <p>Fecha de Inicio: ${work.startDate}</p>
+                            <p>Fecha de Entrega: ${work.endDate}</p>
                         </div>
                     </div>
                     <i class="material-icons" onclick="deleteWork(${index})" aria-label="Delete work">delete</i>
