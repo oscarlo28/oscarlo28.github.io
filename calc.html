@@ -38,13 +38,19 @@
             text-align: center;
             font-size: 52px;
             color: #ffffff;
-            margin-top: 60px;
             font-weight: 700;
+            position: fixed;
+            top: 60px; /* Adjust this value to control the distance from the top */
+            width: 100%;
+            z-index: 1000;
+            background-color: #FD487E;
+            padding: 10px 0;
         }
         .result-label {
             text-align: center;
             color: #ffffff;
             margin-bottom: 20px;
+            margin-top: 140px; /* Adjust this value to ensure proper spacing below the fixed result */
         }
         .content {
             width: 96%;
@@ -114,9 +120,8 @@
             font-weight: 700;
             color: #FD487E;
             cursor: pointer;
-          margin-bottom:80px;
-          margin-top:32px;
-            
+            margin-bottom: 80px;
+            margin-top: 32px;
         }
         .history-entry {
             background: #ffffff;
