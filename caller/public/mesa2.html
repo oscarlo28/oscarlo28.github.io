@@ -1,0 +1,28 @@
+<!-- public/client.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Call Waiter</title>
+</head>
+<body>
+    <h1>Table Service</h1>
+    <button id="callWaiterButton">Call Waiter</button>
+    <div id="notification" style="display: none;">Your waiter is on the way.</div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const socket = io();
+
+        document.getElementById('callWaiterButton').addEventListener('click', () => {
+            const tableData = {
+                tableNumber: '2',
+                tableName: 'Table 2'
+            };
+            socket.emit('callWaiter', tableData);
+            document.getElementById('notification').style.display = 'block';
+        });
+    </script>
+</body>
+</html>
