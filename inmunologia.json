@@ -1,0 +1,797 @@
+[
+    {
+      "pregunta": "¿Qué tipo de inmunidad está presente desde el nacimiento y es inespecífica?",
+      "opciones": [
+        "Inmunidad adquirida",
+        "Inmunidad natural",
+        "Inmunidad específica",
+        "Inmunidad adaptativa"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La inmunidad natural o innata es la defensa presente antes de la exposición a patógenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 3",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de los linfocitos T?",
+      "opciones": [
+        "Producir anticuerpos",
+        "Destrozar células infectadas",
+        "Presentar antígenos",
+        "Activar linfocitos B"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "Los linfocitos T citotóxicos destruyen células infectadas por virus o patógenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 6",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de inmunoglobulina es más abundante en el suero humano?",
+      "opciones": [
+        "IgG",
+        "IgA",
+        "IgE",
+        "IgM"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "La IgG es la inmunoglobulina más abundante en el suero y juega un rol importante en la respuesta inmune secundaria.",
+      "fuente": " GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 9",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué rol tiene el sistema de complemento en la defensa inmune?",
+      "opciones": [
+        "Descomponer proteínas",
+        "Destruir patógenos",
+        "Iniciar la inflamación",
+        "Producción de anticuerpos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El sistema de complemento ayuda en la destrucción de patógenos a través de citólisis y opsonización.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 14",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué son las citocinas?",
+      "opciones": [
+        "Células del sistema inmune",
+        "Proteínas que regulan la respuesta inmune",
+        "Anticuerpos específicos",
+        "Patógenos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "Las citocinas son mediadores que regulan la actividad de las células inmunológicas.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 16",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es la función de los linfocitos B en el sistema inmunológico?",
+      "opciones": [
+        "Producir citocinas",
+        "Producir anticuerpos",
+        "Destruir células infectadas",
+        "Presentar antígenos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "Los linfocitos B se encargan de la producción de anticuerpos específicos contra antígenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 12",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de reacción mediada es la anafilaxia?",
+      "opciones": [
+        "Tipo II",
+        "Tipo I",
+        "Tipo IV",
+        "Tipo III"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La anafilaxia es una reacción de hipersensibilidad tipo I, involucrando IgE.",
+      "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cómo se clasifica un antígeno que no provoca una respuesta inmune por sí solo?",
+      "opciones": [
+        "Inmunógeno",
+        "Antígeno completo",
+        "Hapteno",
+        "Antígeno específico"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Un hapteno es una molécula que por sí sola no puede inducir una respuesta inmune.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 4",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de células son los macrófagos?",
+      "opciones": [
+        "Células B",
+        "Natural Killer",
+        "Células T",
+        "Fagocitos"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "Los macrófagos son células fagocíticas que engullen y destruyen patógenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 6",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el órgano principal donde maduran los linfocitos T?",
+      "opciones": [
+        "Médula ósea",
+        "Bazo",
+        "Timo",
+        "Ganglios linfáticos"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Los linfocitos T maduran principalmente en el timo.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 3",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "La IgE está principalmente asociada con:",
+      "opciones": [
+        "Inflamación crónica",
+        "Inmunidad contra virus",
+        "Alergias alimentarias",
+        "Inmunidad contra bacterias"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La IgE está relacionada con las reacciones alérgicas y la defensa contra parásitos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 11",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué citocina es crucial para la respuesta antiviral?",
+      "opciones": [
+        "Interleucina-6",
+        "Interferón",
+        "Interleucina-1",
+        "Factor de necrosis tumoral"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El interferón es fundamental para la respuesta inmune antiviral y la regulación de la actividad inmune.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 15",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de respuesta inmune se activa por la exposición repetida a un antígeno?",
+      "opciones": [
+        "Respuesta branda",
+        "Respuesta secundaria",
+        "Respuesta innata",
+        "Respuesta primaria"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La respuesta inmune secundaria se activa después de una exposición repetida al mismo antígeno, siendo más rápida y de mayor magnitud.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es la principal función de los linfocitos NK?",
+      "opciones": [
+        "Reconocer y destruir células infectadas",
+        "Fagocitar bacterias",
+        "Producir quimiocinas",
+        "Presentar antígenos"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "Los linfocitos NK destruyen células infectadas por virus y células tumorales sin necesidad de sensibilización previa.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 6",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de vacunas contienen microorganismos vivos atenuados?",
+      "opciones": [
+        "Vacunas atenuadas",
+        "Vacunas de toxoides",
+        "Vacunas inactivadas",
+        "Vacunas recombinantes"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "Las vacunas atenuadas contienen microorganismos vivos pero debilitados que no causan enfermedad.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 20",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "Las células presentadoras de antígenos (CPA) incluyen:",
+      "opciones": [
+        "Neutrófilos y eosinófilos",
+        "Macrófagos y células dendríticas",
+        "Linfocitos B y T",
+        "Células madre"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "Las CPA, como los macrófagos y células dendríticas, presentan antígenos a los linfocitos T para activar la respuesta inmune.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 12",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el efecto del interferón en las células infectadas?",
+      "opciones": [
+        "Estimula replicación",
+        "Induce apoptosis",
+        "Inhibe producción de partículas virales",
+        "Aumenta la producción de anticuerpos"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "El interferón actúa inhibiendo la producción de partículas virales y ayudando a la defensa contra infecciones virales.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 15",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de células inmunitarias son responsables de la hipersensibilidad tipo IV?",
+      "opciones": [
+        "Células T",
+        "Células dendríticas",
+        "Linfocitos B",
+        "Macrófagos"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "La hipersensibilidad tipo IV es mediada por linfocitos T y es una respuesta celular.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "La maduración de los linfocitos B ocurre principalmente en:",
+      "opciones": [
+        "Bazo",
+        "Ganglios linfáticos",
+        "Médula ósea",
+        "Timo"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La médula ósea es el lugar donde los linfocitos B maduran y luego son activados por antígenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 11",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué inmunoglobulina es principal en la mucosa y se asocia a secreciones?",
+      "opciones": [
+        "IgD",
+        "IgA",
+        "IgM",
+        "IgG"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La IgA es la inmunoglobulina principal en secreciones mucosas como saliva y lágrimas.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 9",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué antígeno se clasifica como inmunógeno?",
+      "opciones": [
+        "Una molécula que no provoca respuesta inmunitaria",
+        "Una sustancia que provoca una reacción inmune",
+        "Una proteína estructural",
+        "Un anticuerpo"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "Un inmunógeno es cualquier sustancia que provoca una respuesta inmune.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 4",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el efecto de la opsonización en la respuesta inmune?",
+      "opciones": [
+        "Generar anticuerpos",
+        "Destruir células",
+        "Mejorar la fagocitosis",
+        "Activar la apoptosis"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La opsonización mejora la captación de patógenos por parte de los fagocitos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 14",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué sucede durante la respuesta primaria al antígeno?",
+      "opciones": [
+        "Se forman anticuerpos inmediatamente",
+        "No hay producción de células de memoria",
+        "La respuesta es más rápida que en la secundaria",
+        "Se requieren unos días para la producción de anticuerpos"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "En la respuesta primaria se necesita tiempo para que los linfocitos B produzcan anticuerpos específicos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "Los linfocitos T colaboradores se activan mediante:",
+      "opciones": [
+        "Reconocimiento de antígenos en complejos de histocompatibilidad",
+        "Interacción directa con antígenos",
+        "Acción de los neutrófilos",
+        "Producción de anticuerpos"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "Los linfocitos T colaboradores (CD4+) son activados al reconocer antígenos en conjunción con moléculas de histocompatibilidad.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 7",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de los anticuerpos?",
+      "opciones": [
+        "Aumentar la producción de linfocitos",
+        "Iniciar la inflamación",
+        "Reconocer y unirse a antígenos",
+        "Destruir patógenos"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Los anticuerpos están diseñados para reconocer y unirse específicamente a antígenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 11",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "La hipersensibilidad tipo II se relaciona con:",
+      "opciones": [
+        "Células T",
+        "Anticuerpos contra antígenos en células",
+        "Células NK",
+        "Vías respiratorias"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La hipersensibilidad tipo II involucra la producción de anticuerpos que atacan antígenos en células del cuerpo.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal componente celular de la respuesta inmune innata?",
+      "opciones": [
+        "Células T",
+        "Células B",
+        "Linfocitos T",
+        "Macrófagos"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "Los macrófagos son células clave en la respuesta inmune innata, responsables de la fagocitosis de patógenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 6",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué células son responsables de la respuesta inmune adaptativa?",
+      "opciones": [
+        "Granulocitos",
+        "Células epiteliales",
+        "Neutrófilos",
+        "Linfocitos B y T"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "Los linfocitos B y T son las células principales responsables de la respuesta inmune adaptativa.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 5",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "El complejo mayor de histocompatibilidad (MHC) se encarga de:",
+      "opciones": [
+        "La presentación de antígenos",
+        "El reconocimiento de anticuerpos",
+        "La destrucción de patógenos",
+        "La producción de citocinas"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El MHC presenta péptidos antigénicos a los linfocitos T, siendo crucial para la activación de la respuesta inmune.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 14",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de linfocitos T son responsables de la eliminación de células infectadas?",
+      "opciones": [
+        "Linfocitos T ayudadores",
+        "Linfocitos T memoria",
+        "Linfocitos T citotóxicos",
+        "Linfocitos T reguladores"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Los linfocitos T citotóxicos (CD8+) son responsables de eliminar células infectadas por virus.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 7",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es un ejemplo de hipersensibilidad de tipo III?",
+      "opciones": [
+        "Asma",
+        "Alergias alimentarias",
+        "Lupus eritematoso sistémico",
+        "Reacción anafiláctica"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "El lupus eritematoso sistémico es un ejemplo de hipersensibilidad tipo III, donde se forman complejos inmunes que causan inflamación.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué factor favorece la inmunoterapia en alergias?",
+      "opciones": [
+        "Inducción de tolerancia inmunológica",
+        "Desensibilización seguida de exposición constante",
+        "Menor exposición a alérgenos",
+        "Aumento de anticuerpos IgE"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "La inmunoterapia induce la tolerancia inmunológica al alérgeno, reduciendo la respuesta alérgica.",
+      "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE.pptx, página 10",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal mecanismo de acción de los anticuerpos?",
+      "opciones": [
+        "Destruir las células del cuerpo",
+        "Inhibir la replicación celular",
+        "Unirse a los antígenos",
+        "Aumentar la producción de linfocitos"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Los anticuerpos se unen específicamente a antígenos para neutralizar o eliminar patógenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 11",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cómo se denominan las células que presentan antígenos a los linfocitos T?",
+      "opciones": [
+        "Células madre",
+        "Neutrófilos",
+        "Células dendríticas",
+        "Macrófagos"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Las células dendríticas son las más eficientes en presentar antígenos a los linfocitos T para activar la respuesta inmune.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 12",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es la función de la IgM en la respuesta inmune?",
+      "opciones": [
+        "Segunda respuesta inmunitaria",
+        "Primera respuesta inmunitaria",
+        "Inmunidad proporcionada a través de la placenta",
+        "Defensa contra parásitos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La IgM es la primera inmunoglobulina producida en respuesta a un nuevo antígeno.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 8",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "Las células presentadoras de antígenos activan a los linfocitos T mediante:",
+      "opciones": [
+        "Producción de anticuerpos",
+        "Liberación de interferón",
+        "Presentación de péptidos antigénicos",
+        "Secuestro de patógenos"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Las células presentadoras de antígenos presentan péptidos antigénicos a los linfocitos T para su activación.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 12",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué tipo de linfocitos están implicados en la memoria inmunológica?",
+      "opciones": [
+        "Linfocitos T y B de memoria",
+        "Linfocitos T citotóxicos",
+        "Macrófagos",
+        "Neutrófilos"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "Los linfocitos T y B de memoria recuerdan al antígeno y permiten una respuesta más rápida en exposiciones futuras.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 10",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal efecto de las inmunoglobulinas en las infecciones?",
+      "opciones": [
+        "Inhibir la replicación de virus",
+        "Facilitar la eliminación de patógenos",
+        "Producir citoquinas",
+        "Activar sistemas de complemento"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "Las inmunoglobulinas ayudan a eliminar patógenos al neutralizarlos y facilitar su opsonización.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 11",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Qué desencadena la respuesta inflamatoria en el cuerpo?",
+      "opciones": [
+        "La presencia de hormonas",
+        "La activación del sistema hormonal",
+        "La activación de la inmunidad innata",
+        "La producción de mielina"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La activación de la inmunidad innata responde a la invasión de patógenos y desencadena inflamación.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 6",
+      "categoria": "Inmunología"
+    },
+    {
+      "pregunta": "¿Cuál es el vínculo entre la inmunidad innata y la adaptativa?",
+      "opciones": [
+        "Ambas son la misma cosa",
+        "No existe ningún vínculo",
+        "Las células innatas activan las adaptativas",
+        "Solo la innata es alta especificidad"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "Las células de la inmunidad innata, como los macrófagos, activan la respuesta de la inmunidad adaptativa al presentar antígenos.",
+      "fuente": "GENERALIDADES DEL SISTEMA INMUNITARIO.pptx, página 20",
+      "categoria": "Inmunología"
+    },
+
+        {
+          "pregunta": "¿Cuál es el alimento más comúnmente asociado a anafilaxia en niños?",
+          "opciones": [
+            "Trigo",
+            "Huevo y Leche",
+            "Pollo",
+            "Pescado"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La leche es uno de los desencadenantes más frecuentes de anafilaxia en niños, junto con el huevo y otros alimentos.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 2",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Qué prueba se considera el 'gold standard' para el diagnóstico de alergia alimentaria?",
+          "opciones": [
+            "Prueba de punción",
+            "Prueba de provocación oral",
+            "Análisis de sangre",
+            "Prick test"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La prueba de provocación oral es el método más confiable para confirmar una alergia alimentaria.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 5",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Qué antihistamínico de segunda generación es ideal para urticarias?",
+          "opciones": [
+            "Difenhidramina",
+            "Cetirizina",
+            "Loratadina",
+            "Fendramin"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La cetirizina es un antihistamínico de segunda generación usado comúnmente para el tratamiento de urticarias debido a sus menores efectos sedantes.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 6",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes alimentos es un alérgeno frecuente que no es un fruto seco?",
+          "opciones": [
+            "Maní",
+            "Nuez",
+            "Almendra",
+            "Avellana"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "El maní se considera una legumbre y es un alérgeno común, a diferencia de las nueces y almendras que son frutos secos.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 2",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Qué condición está asociada con una reacción alérgica a los mariscos?",
+          "opciones": [
+            "Dermatitis",
+            "Proctocolitis",
+            "Anafilaxia inducida por ejercicio",
+            "Intolerancia a la lactosa"
+          ],
+          "respuestaCorrecta": 2,
+          "justificacion": "La anafilaxia inducida por ejercicio puede desencadenarse tras la ingesta de mariscos, especialmente en personas con antecedentes de alergias a estos alimentos.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 3",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Cuál es el tratamiento inmediato para una anafilaxia mediada por IgE?",
+          "opciones": [
+            "Antihistamínico oral",
+            "Adrenalina intramuscular",
+            "Corticoides orales",
+            "Antiinflamatorios no esteroideos"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "El tratamiento de primera línea para la anafilaxia mediada por IgE es la administración de adrenalina intramuscular.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 4",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Qué tipo de alergias son más aparatosas?",
+          "opciones": [
+            "Alergias no mediadas por IgE",
+            "Alergias alimentarias mediadas por IgE",
+            "Alergias a medicamentos",
+            "Alergias estacionales"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "Las alergias alimentarias mediadas por IgE suelen presentar síntomas más graves y aparatosos en comparación con las no mediadas.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 2",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Cuál es el tratamiento para la intolerancia a la lactosa?",
+          "opciones": [
+            "Evitar completamente la leche",
+            "Administrar adrenalina",
+            "Antihistamínicos",
+            "Inmunoterapia"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "El tratamiento principal para la intolerancia a la lactosa es la eliminación de la leche y productos lácteos de la dieta.",
+          "fuente": "CLASES DE INMUNOLOGÍA_.docx, página 7",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un atenuante para las alergias alimentarias?",
+          "opciones": [
+            "Infecciones respiratorias",
+            "Consumo de fibra",
+            "Restricción de alimentos",
+            "Exposición a medicamentos"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "Las infecciones respiratorias pueden actuar como atenuantes que agravan la severidad de las reacciones alérgicas.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 3",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Cuál es el síntoma más común asociado con la anafilaxia?",
+          "opciones": [
+            "Urticaria",
+            "Dificultad respiratoria",
+            "Náuseas",
+            "Diátesis"
+          ],
+          "respuestaCorrecta": 1,
+          "justificacion": "La dificultad respiratoria es uno de los síntomas más críticos y comunes en las reacciones anafilácticas.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 5",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Qué puede desencadenar anafilaxias mediadas por cofactores?",
+          "opciones": [
+            "Ejercicio intenso",
+            "Estrés emocional",
+            "Ingesta de alimentos",
+            "Falta de sueño"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "El ejercicio intenso puede actuar como un cofactor en las reacciones anafilácticas, especialmente en personas que son alérgicas a ciertos alimentos.",
+          "fuente": "CLASES DE INMUNOLOGÍA_.docx, página 7",
+          "categoria": "Inmunología"
+        },
+        {
+          "pregunta": "¿Cuáles son los alérgenos más comunes en la rinitis alérgica?",
+          "opciones": [
+            "Ácaros del polvo y polen",
+            "Frutas y vegetales",
+            "Cereales y legumbres",
+            "Lácteos y proteínas cárnicas"
+          ],
+          "respuestaCorrecta": 0,
+          "justificacion": "Los ácaros del polvo y el polen son los principales alérgenos responsables de la rinitis alérgica.",
+          "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 2",
+          "categoria": "Inmunología"
+        },
+        
+            {
+              "pregunta": "¿Qué condición puede presentar síntomas similares a una alergia alimentaria, pero no es una reacción inmunológica?",
+              "opciones": [
+                "Intolerancia a la lactosa",
+                "Anafilaxia",
+                "Dermatitis atópica",
+                "Urticaria aguda"
+              ],
+              "respuestaCorrecta": 0,
+              "justificacion": "La intolerancia a la lactosa no es una reacción inmunológica, sino una incapacidad para digerir la lactosa, lo que provoca síntomas gastrointestinales.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 7",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Qué tipo de prueba se utiliza para evaluar reacciones alérgicas específicas a alimentos?",
+              "opciones": [
+                "Prueba de provocación oral",
+                "Examen físico",
+                "Radiografía",
+                "Análisis de sangre general"
+              ],
+              "respuestaCorrecta": 0,
+              "justificacion": "La prueba de provocación oral es utilizada para confirmar alergias alimentarias al administrar el alérgeno en condiciones controladas.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 5",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes alimentos puede ser un desencadenante de anafilaxia en personas con alergia a la soja?",
+              "opciones": [
+                "Guisantes",
+                "Carne de res",
+                "Frutos secos",
+                "Pescado"
+              ],
+              "respuestaCorrecta": 0,
+              "justificacion": "Las personas con alergia a la soja pueden presentar reacciones anafilácticas al consumir productos derivados de guisantes debido a la similitud en estructura proteica.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 3",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Cuál es el objetivo principal del tratamiento con antihistamínicos en una reacción alérgica?",
+              "opciones": [
+                "Eliminar la causa del alergeno",
+                "Reducir los síntomas de alergia",
+                "Prevenir reacciones anafilácticas",
+                "Reparar el daño tisular"
+              ],
+              "respuestaCorrecta": 1,
+              "justificacion": "Los antihistamínicos se utilizan principalmente para reducir los síntomas de la alergia, como picazón, estornudos y urticaria.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 6",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Qué alergia alimentaria es más comúnmente asociada con el desarrollo de anafilaxia?",
+              "opciones": [
+                "Alergia a la leche",
+                "Alergia a la fresa",
+                "Alergia a la naranja",
+                "Alergia al chocolate"
+              ],
+              "respuestaCorrecta": 0,
+              "justificacion": "La alergia a la leche es frecuentemente asociada con reacciones anafilácticas, especialmente en niños.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 10",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Cuáles son los efectos secundarios comunes de los tratamientos con corticosteroides en alergias?",
+              "opciones": [
+                "Aumento de peso y problemas gastrointestinales",
+                "Somnolencia y mareos",
+                "Reacciones cutáneas",
+                "Ninguno de los anteriores"
+              ],
+              "respuestaCorrecta": 0,
+              "justificacion": "Los corticosteroides pueden causar aumento de peso y problemas gastrointestinales como efectos secundarios.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 6",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "La prueba 'prick test' se utiliza para identificar:",
+              "opciones": [
+                "El nivel de anticuerpos en suero",
+                "Reacciones inmediatas a alérgenos cutáneos",
+                "Pruebas de provocación oral",
+                "Deficiencias en el sistema inmunológico"
+              ],
+              "respuestaCorrecta": 1,
+              "justificacion": "El 'prick test' se utiliza para identificar reacciones inmediatas a alérgenos por medio de la aplicación del alérgeno en la piel.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 3",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Qué tipo de afectación puede causar la alergia a los ácaros del polvo?",
+              "opciones": [
+                "Urticaria y dermatitis",
+                "Asma alérgica y rinitis",
+                "Anafilaxia",
+                "Exantema"
+              ],
+              "respuestaCorrecta": 1,
+              "justificacion": "La exposición a ácaros del polvo es una causa común de asma alérgica y rinitis alérgica.",
+              "fuente": "RA LECTURA JENN.pdf, página 2",
+              "categoria": "Inmunología"
+            },
+            {
+              "pregunta": "¿Qué tipo de alergia se describe como mediada por IgE y causa repercusiones agudas inmediatas?",
+              "opciones": [
+                "Alergias alimentarias",
+                "Alergias de contacto",
+                "Alergias no mediadas por IgE",
+                "Alergias implicadas por fármacos"
+              ],
+              "respuestaCorrecta": 0,
+              "justificacion": "Las alergias alimentarias son un tipo de reacción mediada por IgE que produce síntomas agudos en respuesta al contacto con el alérgeno.",
+              "fuente": "ALERGIA A LOS ALIMENTOS MEDIADA POR IGE y NO IGE.pptx, página 1",
+              "categoria": "Inmunología"
+            }
+          ]

@@ -1,0 +1,263 @@
+[
+    {
+        "pregunta": "¿Cuál es la cardiopatía congénita más frecuente en el síndrome de Down?",
+        "opciones": [
+            "Comunicación interventricular (CIV)",
+            "Defecto del septo auriculoventricular (AV)",
+            "Tetralogía de Fallot",
+            "Ductus arterioso persistente"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El defecto del septo auriculoventricular (AV) es la cardiopatía más frecuente en el síndrome de Down, representando aproximadamente el 50% de las cardiopatías congénitas en estos pacientes.",
+        "fuente": "DEFECTOS DEL SEPTO.pptx, página 1",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento inicial para un recién nacido con coartación de la aorta?",
+        "opciones": [
+            "Infusión continua de prostaglandinas",
+            "Cirugía inmediata",
+            "Administración de diuréticos",
+            "Oxigenoterapia"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El primer tratamiento a instaurar en un recién nacido con coartación de la aorta es la infusión continua de prostaglandinas para mantener el ductus arterioso abierto y estabilizar al paciente antes de una corrección definitiva.",
+        "fuente": "CARDIOPATIAS CONGENITAS ACIANOGENAS.pptx, página 10",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es la principal característica fisiopatológica de la Tetralogía de Fallot?",
+        "opciones": [
+            "Hipertrofia ventricular izquierda",
+            "Comunicación interventricular subaórtica grande",
+            "Estenosis mitral",
+            "Atresia tricúspide"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La Tetralogía de Fallot se caracteriza por una comunicación interventricular subaórtica grande, estenosis pulmonar, cabalgamiento aórtico e hipertrofia ventricular derecha.",
+        "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 2",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es el método de elección para el diagnóstico de la coartación de la aorta?",
+        "opciones": [
+            "Radiografía de tórax",
+            "Electrocardiograma",
+            "Ecocardiografía",
+            "Angiografía"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La ecocardiografía es el método de elección para el diagnóstico de la coartación de la aorta, ya que permite visualizar el estrechamiento de la aorta y evaluar la hemodinámica.",
+        "fuente": "CARDIOPATIAS CONGENITAS ACIANOGENAS.pptx, página 10",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es la manifestación clínica más común en pacientes con defectos del septo auriculoventricular completo?",
+        "opciones": [
+            "Cianosis",
+            "Retraso del crecimiento",
+            "Hipertensión arterial",
+            "Arritmias"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los pacientes con defectos del septo auriculoventricular completo suelen presentar retraso del crecimiento, infecciones respiratorias de repetición y signos de insuficiencia cardíaca debido al hiperaflujo pulmonar.",
+        "fuente": "DEFECTOS DEL SEPTO.pptx, página 3",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es la incidencia aproximada del ductus arterioso persistente en recién nacidos?",
+        "opciones": [
+            "0.05%",
+            "1%",
+            "5%",
+            "10%"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La incidencia del ductus arterioso persistente aislado es aproximadamente del 0.05% de todos los nacimientos.",
+        "fuente": "CARDIOPATIAS CONGENITAS ACIANOGENAS.pptx, página 20",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento quirúrgico más común para la atresia pulmonar con comunicación interventricular?",
+        "opciones": [
+            "Cirugía de unifocalización",
+            "Valvulotomía pulmonar",
+            "Cierre del defecto con parche",
+            "Cirugía de Fontan"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El tratamiento quirúrgico más común para la atresia pulmonar con comunicación interventricular es la cirugía de unifocalización de colaterales aortopulmonares.",
+        "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 10",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es la principal complicación de la estenosis aórtica congénita no tratada?",
+        "opciones": [
+            "Hipertensión pulmonar",
+            "Insuficiencia cardíaca izquierda",
+            "Arritmias ventriculares",
+            "Endocarditis infecciosa"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La principal complicación de la estenosis aórtica congénita no tratada es la insuficiencia cardíaca izquierda, debido a la sobrecarga de presión en el ventrículo izquierdo.",
+        "fuente": "CARDIOPATIAS CONGENITAS ACIANOGENAS.pptx, página 15",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es el síntoma más común en pacientes con transposición de grandes arterias?",
+        "opciones": [
+            "Cianosis",
+            "Dolor torácico",
+            "Palpitaciones",
+            "Edema pulmonar"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El síntoma más común en pacientes con transposición de grandes arterias es la cianosis, especialmente en recién nacidos con tabique ventricular intacto.",
+        "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 15",
+        "categoria": "Cardiología"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento inicial para un neonato con síndrome de ventrículo izquierdo hipoplásico?",
+        "opciones": [
+            "Infusión de prostaglandinas",
+            "Cirugía de Fontan",
+            "Administración de diuréticos",
+            "Oxigenoterapia"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El tratamiento inicial para un neonato con síndrome de ventrículo izquierdo hipoplásico es la infusión de prostaglandinas para mantener el ductus arterioso abierto y asegurar el flujo sanguíneo sistémico.",
+        "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 18",
+        "categoria": "Cardiología"
+    },
+
+        {
+            "pregunta": "¿Cuál es la principal característica de la alergia mediada por IgE?",
+            "opciones": [
+                "Respuesta inflamatoria no específica",
+                "Liberación de histamina por mastocitos",
+                "Activación de linfocitos T",
+                "Formación de complejos inmunes"
+            ],
+            "respuestaCorrecta": 1,
+            "justificacion": "La alergia mediada por IgE se caracteriza por la liberación de histamina por los mastocitos, lo que desencadena una respuesta alérgica inmediata.",
+            "fuente": "WhatsApp Image 2025-03-09 at 5.13.06 PM.jpeg, página 1",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es el tratamiento recomendado para una crisis hipóxica en pacientes con Tetralogía de Fallot?",
+            "opciones": [
+                "Administración de morfina",
+                "Cirugía inmediata",
+                "Oxigenoterapia continua",
+                "Administración de diuréticos"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "En una crisis hipóxica en pacientes con Tetralogía de Fallot, se recomienda la administración de morfina para sedar al paciente y reducir la demanda de oxígeno.",
+            "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 4",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es la principal manifestación clínica de la atresia tricúspide con estenosis pulmonar?",
+            "opciones": [
+                "Cianosis severa",
+                "Insuficiencia cardíaca izquierda",
+                "Hipertensión arterial",
+                "Arritmias ventriculares"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "La atresia tricúspide con estenosis pulmonar se manifiesta principalmente con cianosis severa debido a la reducción del flujo pulmonar.",
+            "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 7",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es el principal hallazgo en el electrocardiograma de un paciente con comunicación interauricular (CIA)?",
+            "opciones": [
+                "Eje QRS desviado a la derecha",
+                "Onda T invertida en V1",
+                "Bloqueo de rama izquierda",
+                "Intervalo PR prolongado"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "En pacientes con comunicación interauricular (CIA), el electrocardiograma suele mostrar un eje QRS desviado a la derecha debido a la sobrecarga del ventrículo derecho.",
+            "fuente": "EKG.pptx, página 10",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es el tratamiento quirúrgico más común para la atresia pulmonar con septum interventricular íntegro?",
+            "opciones": [
+                "Valvulotomía pulmonar",
+                "Cirugía de Fontan",
+                "Cierre del defecto con parche",
+                "Derivación cavopulmonar"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "El tratamiento quirúrgico más común para la atresia pulmonar con septum interventricular íntegro es la valvulotomía pulmonar, que permite restablecer el flujo sanguíneo hacia los pulmones.",
+            "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 12",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es la principal complicación de la coartación de la aorta no tratada en recién nacidos?",
+            "opciones": [
+                "Insuficiencia cardíaca",
+                "Hipertensión pulmonar",
+                "Endocarditis infecciosa",
+                "Arritmias ventriculares"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "La principal complicación de la coartación de la aorta no tratada en recién nacidos es la insuficiencia cardíaca debido a la obstrucción del flujo sanguíneo sistémico.",
+            "fuente": "CARDIOPATIAS CONGENITAS ACIANOGENAS.pptx, página 10",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es el principal hallazgo en la radiografía de tórax de un paciente con transposición de grandes arterias?",
+            "opciones": [
+                "Cardiomegalia",
+                "Silueta cardíaca en forma de huevo",
+                "Aumento de la vascularización pulmonar",
+                "Disminución del flujo pulmonar"
+            ],
+            "respuestaCorrecta": 1,
+            "justificacion": "En la transposición de grandes arterias, la radiografía de tórax suele mostrar una silueta cardíaca en forma de huevo debido a la disposición anormal de los grandes vasos.",
+            "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 15",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es el tratamiento inicial para un recién nacido con síndrome de ventrículo izquierdo hipoplásico?",
+            "opciones": [
+                "Infusión de prostaglandinas",
+                "Cirugía de Fontan",
+                "Administración de diuréticos",
+                "Oxigenoterapia"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "El tratamiento inicial para un recién nacido con síndrome de ventrículo izquierdo hipoplásico es la infusión de prostaglandinas para mantener el ductus arterioso abierto y asegurar el flujo sanguíneo sistémico.",
+            "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 18",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es la principal manifestación clínica de la anomalía de Ebstein?",
+            "opciones": [
+                "Cianosis",
+                "Insuficiencia cardíaca derecha",
+                "Hipertensión arterial",
+                "Arritmias ventriculares"
+            ],
+            "respuestaCorrecta": 1,
+            "justificacion": "La anomalía de Ebstein se manifiesta principalmente con insuficiencia cardíaca derecha debido a la malformación de la válvula tricúspide.",
+            "fuente": "CARDIOPATIAS CONGENITAS CIANOGENAS GRUPO 4 2.pptx, página 14",
+            "categoria": "Cardiología"
+        },
+        {
+            "pregunta": "¿Cuál es el principal hallazgo en el electrocardiograma de un paciente con Tetralogía de Fallot?",
+            "opciones": [
+                "Eje QRS desviado a la derecha",
+                "Onda T invertida en V1",
+                "Bloqueo de rama izquierda",
+                "Intervalo PR prolongado"
+            ],
+            "respuestaCorrecta": 0,
+            "justificacion": "En pacientes con Tetralogía de Fallot, el electrocardiograma suele mostrar un eje QRS desviado a la derecha debido a la hipertrofia ventricular derecha.",
+            "fuente": "EKG.pptx, página 10",
+            "categoria": "Cardiología"
+        }
+    ]

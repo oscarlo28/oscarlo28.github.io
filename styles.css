@@ -1,0 +1,176 @@
+/* Estilos adicionales que no están en Tailwind */
+.perspective-1000 {
+    perspective: 1000px;
+}
+
+.transform-style-preserve-3d {
+    transform-style: preserve-3d;
+}
+
+.backface-hidden {
+    backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+    transform: rotateY(180deg);
+}
+
+.flashcard-flip {
+    transform: rotateY(180deg);
+}
+
+/* Animaciones para las transiciones entre pantallas */
+.fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.fade-out {
+    animation: fadeOut 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; transform: translateY(0); }
+    to { opacity: 0; transform: translateY(10px); }
+}
+
+/* Estilos para las opciones de respuesta */
+.opcion {
+    transition: all 0.2s ease;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    border: 2px solid #e5e7eb;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.opcion:hover {
+    transform: translateX(5px);
+    background-color: #f3f4f6;
+    border-color: #d1d5db;
+}
+
+.opcion-seleccionada {
+    border-color: #3b82f6;
+    background-color: #eff6ff;
+}
+
+.opcion-correcta {
+    border-color: #10b981;
+    background-color: #d1fae5;
+}
+
+.opcion-incorrecta {
+    border-color: #ef4444;
+    background-color: #fee2e2;
+}
+
+/* Estilos para los detalles de las preguntas */
+.pregunta-detalle {
+    border-left: 4px solid #e5e7eb;
+    transition: all 0.3s ease;
+    border-radius: 0.5rem;
+}
+
+.pregunta-correcta {
+    border-left-color: #10b981;
+}
+
+.pregunta-incorrecta {
+    border-left-color: #ef4444;
+}
+
+/* Mejoras para dispositivos móviles */
+@media (max-width: 640px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
+    table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+    }
+    
+    .opcion {
+        padding: 0.75rem;
+    }
+}
+
+/* Estilos para el indicador de opción */
+.opcion-indicator {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 12px;
+    background-color: #e5e7eb;
+    color: #4b5563;
+    font-weight: 600;
+    flex-shrink: 0;
+}
+
+.opcion-seleccionada .opcion-indicator {
+    background-color: #3b82f6;
+    color: white;
+}
+
+.opcion-correcta .opcion-indicator {
+    background-color: #10b981;
+    color: white;
+}
+
+.opcion-incorrecta .opcion-indicator {
+    background-color: #ef4444;
+    color: white;
+}
+
+/* Evitar scroll horizontal en tablas */
+.overflow-x-auto {
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Estilos para las flashcards */
+#flashcard-inner {
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+#flashcard-front, #flashcard-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 0.75rem;
+}
+
+#flashcard-front {
+    background-color: #ffffff;
+    color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    border: 1px solid #e5e7eb;
+}
+
+#flashcard-back {
+    background-color: #eef2ff;
+    color: #1f2937;
+    transform: rotateY(180deg);
+    padding: 1.5rem;
+    border: 1px solid #e5e7eb;
+    overflow-y: auto;
+} 

@@ -1,0 +1,821 @@
+[
+    {
+        "pregunta": "¿Cuál es la edad que abarca la adolescencia según la OMS?",
+        "opciones": [
+            "8-14 años",
+            "10-19 años",
+            "12-18 años",
+            "15-20 años"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La Organización Mundial de la Salud (OMS) define la adolescencia como el período entre los 10 y 19 años.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 6",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué aspecto NO es considerado parte de la salud integral durante la consulta adolescente?",
+        "opciones": [
+            "Bienestar físico",
+            "Bienestar mental",
+            "Bienestar emocional",
+            "Bienestar social"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El bienestar emocional no es mencionado dentro del contexto de salud integral según el documento.",
+        "fuente": "Organización de consulta clínica, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es un factor de riesgo mencionado para adolescentes?",
+        "opciones": [
+            "Buena salud física",
+            "Actividades recreativas",
+            "Drogas",
+            "Comidas saludables"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Las drogas son un factor de riesgo para los adolescentes.",
+        "fuente": "Aspects psicosociales durante la adolescencia, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué se entiende por adrenarquia?",
+        "opciones": [
+            "Inicio de la menstruación",
+            "Maduración de la suprarrenal",
+            "Desarrollo de características sexuales",
+            "Aumento de la altura"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Adrenarquia es la maduración de las glándulas suprarrenales.",
+        "fuente": "Fisiología de la pubertad, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes características NO define la adolescencia?",
+        "opciones": [
+            "Aumento de testículos",
+            "Desarrollo de la identidad",
+            "Poca inestabilidad emocional",
+            "Aceptación de la imagen corporal"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La mayoría de los adolescentes experimentan inestabilidad emocional.",
+        "fuente": "Mitos de la adolescencia, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Uno de los objetivos psicosociales en la adolescencia es:",
+        "opciones": [
+            "Establecer contacto con los padres",
+            "Adquirir independencia",
+            "Aceptación de la cultura",
+            "Rechazar amistades"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Uno de los objetivos psicosociales es lograr la independencia.",
+        "fuente": "Objetivos psicosociales en la adolescencia, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué tipo de servicios se considera un espacio amigable para adolescentes?",
+        "opciones": [
+            "Ambientes exclusivos",
+            "Espacios compartidos",
+            "Consultas en grupo",
+            "Consultas regulares"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Centro amigable de salud para adolescentes es un espacio seguro y diseñado para su atención.",
+        "fuente": "Modalidades de servicios, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de barrera institucional para el acceso de los adolescentes al sistema sanitario?",
+        "opciones": [
+            "Acceso a información",
+            "Horarios inapropiados",
+            "Límites de edad",
+            "Capacitación del personal"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los horarios inapropiados son una barrera institucional identificada.",
+        "fuente": "Barreras institucionales de los adolescentes, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué aspecto se recomienda para mejorar la consulta adolescente?",
+        "opciones": [
+            "Atender solos",
+            "Priorizar horarios de trabajo",
+            "Crear un ambiente inclusivo",
+            "Reducir el tiempo de consulta"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Crear un ambiente donde el adolescente se sienta integrado es crucial.",
+        "fuente": "Modalidades de servicios, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La adolescencia se considera una etapa de desarrollo:",
+        "opciones": [
+            "Estable",
+            "Corta",
+            "Larga y variable",
+            "Inconclusa"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La adolescencia es una etapa larga y con un desarrollo variable.",
+        "fuente": "Definición de adolescencia, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "El aumento del vello púbico y axilar es un signo de:",
+        "opciones": [
+            "Adrenarquia",
+            "Menstruación",
+            "Pubertad",
+            "Estatura"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El aumento de vello púbico y axilar indica la adrenarquia.",
+        "fuente": "Fisiología de la pubertad, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Una buena salud física ayuda a alcanzar:",
+        "opciones": [
+            "Desarrollo económico",
+            "Desarrollo emocional",
+            "Más amistades",
+            "Menos responsabilidades"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La buena salud física ayuda en el desarrollo físico y emocional del paciente.",
+        "fuente": "Aspectos psicosociales durante la adolescencia, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los roles del pediatra en la atención a adolescentes?",
+        "opciones": [
+            "No involucrarse emocionalmente",
+            "Realizar anamnesis confidencial",
+            "Infravalorar comportamientos",
+            "Focalizar solo en lo físico"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Realizar una anamnesis confidencial es clave para abordar la atención al adolescente.",
+        "fuente": "Papel del pediatra, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "El exceso de actividad física en una semana no debe superar:",
+        "opciones": [
+            "20 horas",
+            "10 horas",
+            "15 horas",
+            "3 horas"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "Se recomienda un máximo de 3 horas de actividad física por semana.",
+        "fuente": "Hábitos de vida saludable, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "El desarrollo de la identidad en la adolescencia implica:",
+        "opciones": [
+            "Rechazo a la familia",
+            "Búsqueda de autonomía",
+            "Estancamiento emocional",
+            "Aislamiento social"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Búsqueda de autonomía y aceptación de la identidad son clave en esta etapa.",
+        "fuente": "Identidad, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué se debe priorizar en pacientes vulnerables?",
+        "opciones": [
+            "Tiempo de consulta",
+            "Salud mental o física",
+            "Estilo de vida",
+            "Estrategias de escape"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Hay que priorizar la salud mental o física de pacientes vulnerables.",
+        "fuente": "Objetivos fundamentales, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes NO es un mito de la adolescencia?",
+        "opciones": [
+            "Estabilidad",
+            "Emotividad descontrolada",
+            "Racionalidad",
+            "Autonomía"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "La autonomía es un objetivo, no un mito de la adolescencia.",
+        "fuente": "Mitos de la adolescencia, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Los padres deben educar a sus hijos sobre:",
+        "opciones": [
+            "Métodos anticonceptivos",
+            "Aislamiento social",
+            "Violencia",
+            "Inseguridad"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Es fundamental que los padres eduquen a sus hijos con información clara sobre métodos anticonceptivos.",
+        "fuente": "Prevención de embarazo no deseados, página 4",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Para prevenir E.T.S., se debe promover el uso de:",
+        "opciones": [
+            "Medicamentos",
+            "Condones",
+            "Drogas",
+            "Alcohol"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es fundamental promover el uso del condón para prevenir E.T.S.",
+        "fuente": "ETS, página 4",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de la confidencialidad en la consulta adolescente?",
+        "opciones": [
+            "Menor tiempo de consulta",
+            "Mejorar la relación con los padres",
+            "Garantizar que la información no sea divulgada sin consentimiento",
+            "Mix de pacientes"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Es crucial garantizar la confidencialidad para que el adolescente se sienta seguro de revelar información.",
+        "fuente": "Principios en la atención al adolescente, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Uno de los elementos clave en la pubertad es:",
+        "opciones": [
+            "Eje hipotalámico",
+            "Alteraciones genéticas",
+            "Estilo de vida saludable",
+            "Aislamiento social"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El eje hipotalámico es fundamental en el desarrollo puberal.",
+        "fuente": "Fisiología de la pubertad, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué hormonas están involucradas en la pubertad?",
+        "opciones": [
+            "Adrenalina y noradrenalina",
+            "Gonadotropinas",
+            "Esteroides",
+            "Hormonas del crecimiento"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Las gonadotropinas son claves en la pubertad y afectan tanto a varones como hembras.",
+        "fuente": "Fisiología de la pubertad, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Durante la adolescencia, la imagen corporal es influenciada por:",
+        "opciones": [
+            "Presión social",
+            "Éxito escolar",
+            "Relaciones familiares",
+            "Intereses deportivos"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La presión social puede afectar significativamente la imagen corporal en adolescentes.",
+        "fuente": "Imagen corporal y autoestima, página 4",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué rol tiene la comunicación en la educación sexual de los adolescentes?",
+        "opciones": [
+            "Es irrelevante",
+            "Importante para tomar decisiones saludables",
+            "Confundir al adolescente",
+            "Limitar el acceso a información"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La habilidad de comunicación es clave para enseñar a negociar relaciones saludables.",
+        "fuente": "Habilidad de comunicación, página 4",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Uno de los objetivos del consultorio de atención diferenciada es:",
+        "opciones": [
+            "Aislar a los pacientes",
+            "Identificar problemas de salud",
+            "Limitar el acceso al médico",
+            "Reducir el tiempo de consulta"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Identificar problemas de salud es un objetivo central del consultorio diferenciado.",
+        "fuente": "Consultorio de atención diferenciada, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Los adolescentes son una representación de:",
+        "opciones": [
+            "El pasado de la sociedad",
+            "La sociedad futura",
+            "La involución",
+            "El aislamiento social"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los adolescentes son una fotografía de la sociedad actual y su futuro.",
+        "fuente": "Principios adicionales en la atención a adolescentes, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes conceptos se asocia al enfoque de riesgo en la atención adolescente?",
+        "opciones": [
+            "Busca evitar el contacto social",
+            "Detectar poblaciones vulnerables",
+            "Evitar la educación sexual",
+            "Limitar accesos"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Detectar poblaciones vulnerables es parte del enfoque de riesgo.",
+        "fuente": "Enfoque de Riesgo, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué se espera lograr en las consultas a adolescentes?",
+        "opciones": [
+            "Aislamiento",
+            "Desinformación",
+            "Vínculo estrecho con los padres",
+            "Orientar hacia la salud integral"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "El objetivo es orientar al paciente hacia la salud integral.",
+        "fuente": "Objetivos fundamentales de la consulta, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La consulta a adolescentes debe ser principalmente:",
+        "opciones": [
+            "Con niños pequeños",
+            "Con apoyo familiar",
+            "Individual",
+            "Sin estructura"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Se recomienda que las consultas sean individuales para evitar comparaciones.",
+        "fuente": "Aspectos psicosociales y consulta, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué se debe considerar en la planificación del horario para la consulta a adolescentes?",
+        "opciones": [
+            "Evitar el tiempo de estudio",
+            "Fijar horarios estrictos",
+            "Facilitar la asistencia adaptando horarios",
+            "No programar turnos"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La programación de horarios debe facilitar la asistencia de los adolescentes.",
+        "fuente": "Programación Horaria y Gestión de turnos, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La educación sexual en la infancia y adolescencia debe incluir:",
+        "opciones": [
+            "Silencio sobre el tema",
+            "Material educativo claro",
+            "Instrucciones crípticas",
+            "Rechazo a la comunicación"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es vital el uso de material de educación sexual claro y comprensible.",
+        "fuente": "Educación sexual en la infancia, página 4",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué aspecto es importante para el desarrollo físico en la adolescencia?",
+        "opciones": [
+            "Falta de ejercicio",
+            "Buena alimentación",
+            "Aislamiento social",
+            "Exceso de pantallas"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Una buena alimentación es esencial para el desarrollo físico.",
+        "fuente": "Nutrición de la adolescencia, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué se entiende por 'identidad' en el contexto de la adolescencia?",
+        "opciones": [
+            "Rechazo de valores",
+            "Búsqueda de sentido y autoaceptación",
+            "Confusión completa",
+            "Inmadurez permanente"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La búsqueda de una identidad clara y la autoaceptación son cruciales en la adolescencia.",
+        "fuente": "Desarrollo normal del adolescente, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es un objetivo de la atención integral en adolescentes?",
+        "opciones": [
+            "Focalizar solo en lo físico",
+            "Observar la salud mental y social",
+            "Desestimar la educación sexual",
+            "Limitar asistencia"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La salud integral abarca bienestar físico, mental y social.",
+        "fuente": "Objetivos fundamentales, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La dinámica de amistad en la adolescencia se caracteriza por:",
+        "opciones": [
+            "Relaciones estables",
+            "Cambios frecuentes",
+            "Rechazo de vínculos",
+            "Aislamiento social"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los adolescentes establecen relaciones de amistad que son cambiante.",
+        "fuente": "Relaciones interpersonales, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "El desarrollo de la imagen corporal está influenciado por:",
+        "opciones": [
+            "La presión académica",
+            "Las redes sociales",
+            "Los conflictos familiares",
+            "La cultura popular"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Las redes sociales contribuyen significativamente a la formación de la imagen corporal.",
+        "fuente": "Imagen corporal y autoestima, página 4",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La transición a la atención de adultos debe iniciarse:",
+        "opciones": [
+            "En la adultez",
+            "Desde el inicio de la adolescencia",
+            "Cuando se convierten en padres",
+            "Solo en emergencias"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Se debe preparar la transición a la atención en adultos desde el inicio de la adolescencia.",
+        "fuente": "Fundamentos de la atención integral, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Las influencias socioculturales impactan en la adolescencia principalmente a través de:",
+        "opciones": [
+            "Acceso a recursos",
+            "Aislamiento",
+            "Desinformación",
+            "Presión familiar"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Las influencias socioculturales pueden generar tanto riesgos como protección según el contexto.",
+        "fuente": "Influencias socioculturales, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Los adolescentes deben ser atendidos en espacios:",
+        "opciones": [
+            "Comunes con adultos",
+            "Diferenciados y amigables",
+            "Sin privacidad",
+            "Con carga emocional"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los espacios deben ser amigables y diferenciados para atender y apoyar a los adolescentes.",
+        "fuente": "Características del lugar, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuáles son las características de la etapa inicial de la adolescencia?",
+        "opciones": [
+            "Desarrollo de la identidad",
+            "Cambios puberales",
+            "Conflictos familiares",
+            "Aceptación de la imagen corporal"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "En la etapa inicial de la adolescencia, se producen cambios puberales significativos.",
+        "fuente": "Características y etapas de la adolescencia, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "El aumento del tamaño de los testículos es un signo de:",
+        "opciones": [
+            "Desarrollo del cerebro",
+            "Desarrollo puberal",
+            "Menstruación",
+            "Maduración emocional"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El aumento testicular es uno de los primeros signos visibles del desarrollo puberal en varones.",
+        "fuente": "Fisiología de la pubertad, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de una estrategia para evitar la violencia en adolescentes?",
+        "opciones": [
+            "Promover el aislamiento",
+            "Involucrar a la comunidad escolar",
+            "Ignorar los problemas",
+            "Desincentivar las actividades recreativas"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Involucrar a la comunidad escolar puede ser una buena estrategia para prevenir la violencia.",
+        "fuente": "Factores de protección, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La planificación de la consulta debe considerar:",
+        "opciones": [
+            "La edad del médico",
+            "Los horarios que favorecen la asistencia del adolescente",
+            "Cuántos pacientes se atienden al día",
+            "La cantidad de tiempo que dure la consulta"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los horarios deben adaptarse para favorecer la asistencia de los adolescentes.",
+        "fuente": "Programación Horaria y Gestión de turnos, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es una de las metas del modelo ecológico del embarazo adolescente?",
+        "opciones": [
+            "Ignorar los factores de riesgo",
+            "Fomentar libros de autoayuda",
+            "Identificar problemas en diferentes niveles",
+            "Aislar a las adolescentes embarazadas"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El modelo ecológico busca identificar problemas en diferentes niveles que afectan a las adolescentes.",
+        "fuente": "Modelo ecológico del embarazo en adolescentes, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué se considera un mito común sobre la adolescencia?",
+        "opciones": [
+            "Los adolescentes son inestables emocionalmente",
+            "Los adolescentes tienen buen juicio moral",
+            "Todos los adolescentes son iguales",
+            "La adolescencia es una transición corta"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Es un mito que la mayoría de los adolescentes no experimenten inestabilidad emocional.",
+        "fuente": "Mitos de la adolescencia, página 2",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Uno de los objetivos de la atención interdisciplinaria es:",
+        "opciones": [
+            "Limitar el acceso a información",
+            "Atender solo aspectos físicos",
+            "Integrar varias especialidades médicas",
+            "Reducir el tiempo de atención"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La atención interdisciplinaria busca integrar varias áreas de la salud para ofrecer un enfoque completo.",
+        "fuente": "Objetivos fundamentales, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "La 'confidencialidad' en la atención adolescente se refiere a:",
+        "opciones": [
+            "No hablar con los padres",
+            "La obligación de compartir información",
+            "Valorar la privacidad del paciente",
+            "Discutir el caso en grupo"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Es esencial valorar la privacidad del paciente y mantener la confidencialidad de la información.",
+        "fuente": "Confidencialidad, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué tipo de consultorio se considera 'no diferenciado'?",
+        "opciones": [
+            "Un consultorio donde se atienden solo adolescentes",
+            "Un consultorio que se comparte con otros servicios",
+            "Un consultorio exclusivo para adultos",
+            "Un consultorio donde no hay programación"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El consultorio no diferenciado comparte espacio con otros servicios de salud.",
+        "fuente": "Modalidades de servicios, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "En términos de desarrollo físico, ¿qué aspecto es fundamental durante la adolescencia?",
+        "opciones": [
+            "Exceso de grasa",
+            "Nutrición equilibrada",
+            "Desinterés por el deporte",
+            "Dieta baja en calorías"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Una nutrición equilibrada es fundamental para un desarrollo físico saludable.",
+        "fuente": "Nutrición de la adolescencia, página 3",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "Una de las principales barreras para el acceso de adolescentes a la atención de salud es:",
+        "opciones": [
+            "Interés por la salud",
+            "Desinformación sobre servicios existentes",
+            "Alta demanda de educación",
+            "Acceso a información clara"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La desinformación sobre la existencia de espacios de atención es una barrera significativa.",
+        "fuente": "Barreras institucionales, página 1",
+        "categoria": "Adolescentes"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de la población total de la República Dominicana representan los adolescentes?",
+        "opciones": [
+            "15%",
+            "21%",
+            "25%",
+            "30%"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Las personas adolescentes representan el 21% de la población total de la República Dominicana (ONE, 2011).",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 7",
+        "categoria": "Demografía"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los principales problemas de salud en adolescentes según los documentos?",
+        "opciones": [
+            "Enfermedades cardiovasculares",
+            "Embarazo en la adolescencia",
+            "Diabetes tipo 2",
+            "Hipertensión"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La salud de las personas adolescentes se ha tornado un tema prioritario, especialmente en el ámbito de la salud sexual y reproductiva, con altos índices de embarazos en la adolescencia.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 8",
+        "categoria": "Salud Adolescente"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de adolescentes son madres o están embarazadas por primera vez en la República Dominicana?",
+        "opciones": [
+            "10%",
+            "15%",
+            "20%",
+            "25%"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Una de cada cinco adolescentes es madre o está embarazada por primera vez.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 9",
+        "categoria": "Embarazo Adolescente"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los enfoques en la atención integral de adolescentes?",
+        "opciones": [
+            "Enfoque de riesgo",
+            "Enfoque de tratamiento",
+            "Enfoque de rehabilitación",
+            "Enfoque paliativo"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El enfoque de riesgo facilita una perspectiva preventiva para evitar resultados no deseados al identificar factores de riesgo.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 12",
+        "categoria": "Atención Adolescente"
+    },
+    {
+        "pregunta": "¿Qué principio reconoce a los adolescentes como sujetos de derecho?",
+        "opciones": [
+            "Principio de igualdad",
+            "Principio de no discriminación",
+            "Principio de confidencialidad",
+            "Principio de universalidad"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El enfoque de derechos reconoce a los adolescentes como sujetos de derecho, promoviendo la no discriminación y el respeto a su dignidad.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 13",
+        "categoria": "Derechos Adolescentes"
+    },
+    {
+        "pregunta": "¿Cuál es uno de los principios adicionales en la atención a adolescentes?",
+        "opciones": [
+            "Discriminación",
+            "Confidencialidad",
+            "Exclusión",
+            "Segregación"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La confidencialidad es uno de los principios adicionales en la atención a adolescentes.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 15",
+        "categoria": "Atención Adolescente"
+    },
+    {
+        "pregunta": "¿Qué tipo de atención busca satisfacer las necesidades de salud individuales de los adolescentes?",
+        "opciones": [
+            "Atención paliativa",
+            "Atención integral en salud",
+            "Atención de emergencia",
+            "Atención ambulatoria"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La atención en salud abarca servicios preventivos y asistenciales. Su objetivo es satisfacer las necesidades de salud individuales. En adolescentes, implica un abordaje interdisciplinario.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 17",
+        "categoria": "Salud Adolescente"
+    },
+    {
+        "pregunta": "¿Qué criterio se considera para servicios amigables y de calidad para adolescentes?",
+        "opciones": [
+            "Exclusividad",
+            "Accesibilidad",
+            "Segregación",
+            "Discriminación"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los servicios deben ser accesibles para los adolescentes.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 28",
+        "categoria": "Servicios de Salud"
+    },
+    {
+        "pregunta": "¿Qué criterio se considera para servicios amigables y de calidad para adolescentes?",
+        "opciones": [
+            "Inequidad",
+            "Equidad",
+            "Desigualdad",
+            "Injusticia"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los servicios deben ser equitativos para todos los adolescentes.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 28",
+        "categoria": "Servicios de Salud"
+    },
+    {
+        "pregunta": "¿Cuál es una de las condiciones médicas comunes en la adolescencia?",
+        "opciones": [
+            "Diabetes tipo 1",
+            "Problemas de salud mental",
+            "Enfermedades cardiovasculares",
+            "Artritis reumatoide"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los problemas de salud mental son comunes en la adolescencia.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 29",
+        "categoria": "Salud Adolescente"
+    },
+    {
+        "pregunta": "¿Qué tipo de profesionales deben laborar en los servicios para adolescentes?",
+        "opciones": [
+            "Abogados",
+            "Psicólogos",
+            "Ingenieros",
+            "Contadores"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El equipo debe incluir psicólogos para abordar la salud mental de los adolescentes.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 37",
+        "categoria": "Servicios de Salud"
+    },
+    {
+        "pregunta": "¿Cuál es una de las modalidades de servicios diferenciados para adolescentes?",
+        "opciones": [
+            "Servicio de emergencia",
+            "Consultorio diferenciado",
+            "Servicio de rehabilitación",
+            "Consultorio general"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Los consultorios diferenciados ofrecen atención integral en un espacio adaptado con horarios exclusivos para adolescentes.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 41",
+        "categoria": "Servicios de Salud"
+    },
+    {
+        "pregunta": "¿Qué se debe garantizar en la atención a adolescentes?",
+        "opciones": [
+            "Exclusión",
+            "Confidencialidad",
+            "Discriminación",
+            "Segregación"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es crucial asegurar la privacidad y confidencialidad en la atención a adolescentes.",
+        "fuente": "FUNDAMENTOS DE LA ATENCIÓN INTEGRAL EN SALUD DE PERSONAS ADOLESCENTES, página 44",
+        "categoria": "Atención Adolescente"
+    }
+]

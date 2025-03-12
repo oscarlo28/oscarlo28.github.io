@@ -1,0 +1,1148 @@
+[
+    {
+      "pregunta": "¿Cuál es la clasificación de AKIN para la lesión renal aguda (LRA) que indica un aumento de la creatinina sérica de 3 veces su valor basal?",
+      "opciones": [
+        "Estadio 1",
+        "Estadio 2",
+        "Estadio 3",
+        "Estadio 4"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "El estadio 3 de la clasificación de AKIN se define como un aumento de la creatinina sérica de 3 veces su valor basal o ≥ 4 mg/dl con un aumento agudo ≥ 0.5 mg/dl.",
+      "fuente": "AKIN.jpg, página 1",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el volumen urinario normal en adultos según la clasificación de AKIN?",
+      "opciones": [
+        "500-2000 ml/día",
+        "300-1000 ml/día",
+        "1000-3000 ml/día",
+        "2000-4000 ml/día"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El volumen urinario normal en adultos es de 500-2000 ml/día, según la clasificación de AKIN.",
+      "fuente": "AKIN.jpg, página 1",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la clasificación de RIFLE que indica una pérdida completa de la función renal durante más de 4 semanas?",
+      "opciones": [
+        "Riesgo (Risk)",
+        "Lesión (Injury)",
+        "Fracaso (Failure)",
+        "Pérdida (Loss)"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "La clasificación de RIFLE define 'Pérdida (Loss)' como la pérdida completa de la función renal durante más de 4 semanas.",
+      "fuente": "RIFLE.jpg, página 1",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal síntoma clínico del síndrome nefrótico en niños?",
+      "opciones": [
+        "Fiebre",
+        "Edema",
+        "Dolor abdominal",
+        "Hematuria"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El principal síntoma clínico del síndrome nefrótico en niños es el edema, que se presenta en la mayoría de los casos.",
+      "fuente": "SINDROME NEFROTICO.pptx, slide 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento inicial recomendado para el síndrome nefrótico en niños?",
+      "opciones": [
+        "Diuréticos",
+        "Corticoides",
+        "Inmunosupresores",
+        "Antibióticos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El tratamiento inicial recomendado para el síndrome nefrótico en niños es el uso de corticoides, como la prednisona, a dosis de 2 mg/kg o 60 mg/m2.",
+      "fuente": "SINDROME NEFROTICO.pptx, slide 7",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la incidencia del síndrome nefrótico en niños menores de 16 años?",
+      "opciones": [
+        "1-2 casos por 100,000 niños al año",
+        "2-7 casos por 100,000 niños al año",
+        "10-15 casos por 100,000 niños al año",
+        "20-25 casos por 100,000 niños al año"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La incidencia del síndrome nefrótico en niños menores de 16 años es de 2-7 casos nuevos por 100,000 niños al año.",
+      "fuente": "SINDROME NEFROTICO.pptx, slide 2",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la causa más frecuente de hidronefrosis en recién nacidos?",
+      "opciones": [
+        "Reflujo vesicoureteral",
+        "Estenosis de la unión pieloureteral",
+        "Ureterocele",
+        "Riñón multiquístico"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La causa más frecuente de hidronefrosis en recién nacidos es la estenosis de la unión pieloureteral, que provoca una obstrucción en el flujo de orina.",
+      "fuente": "HIDRONEFROSIS.pptx, slide 4",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el diámetro anteroposterior considerado como hidronefrosis leve en recién nacidos?",
+      "opciones": [
+        "<10 mm",
+        "10-15 mm",
+        "15-20 mm",
+        ">20 mm"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "La hidronefrosis leve en recién nacidos se define como un diámetro anteroposterior de menos de 10 mm.",
+      "fuente": "LESION RENAL AGUDA.docx, página 2",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento recomendado para la hidronefrosis leve en recién nacidos?",
+      "opciones": [
+        "Cirugía inmediata",
+        "Manejo conservador y seguimiento",
+        "Diálisis",
+        "Profilaxis antibiótica"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El tratamiento recomendado para la hidronefrosis leve en recién nacidos es el manejo conservador y seguimiento, ya que en la mayoría de los casos no requiere intervención quirúrgica.",
+      "fuente": "LESION RENAL AGUDA.docx, página 2",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal agente causal de las infecciones urinarias (IU) en niños?",
+      "opciones": [
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Escherichia coli",
+        "Enterococcus spp."
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "El principal agente causal de las infecciones urinarias (IU) en niños es Escherichia coli, que representa entre el 60-80% de los casos.",
+      "fuente": "IVU.pdf, página 3",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico inicial del reflujo vesicoureteral (RVU) en niños?",
+      "opciones": [
+        "Ecografía renal",
+        "Cistografía miccional seriada (CUMS)",
+        "Gammagrafía renal con DMSA",
+        "TAC abdominal"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La técnica de imagen recomendada para el diagnóstico inicial del reflujo vesicoureteral (RVU) en niños es la cistografía miccional seriada (CUMS), ya que permite visualizar la anatomía de la vía urinaria y graduar el RVU.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 3",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento quirúrgico más utilizado para corregir el reflujo vesicoureteral (RVU) en niños?",
+      "opciones": [
+        "Reimplante ureteral abierto",
+        "Inyección subureteral endoscópica",
+        "Nefrectomía",
+        "Diálisis"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El tratamiento quirúrgico más utilizado para corregir el reflujo vesicoureteral (RVU) en niños es la inyección subureteral endoscópica, que es menos invasiva y tiene una alta tasa de éxito.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la prevalencia del reflujo vesicoureteral (RVU) en niños con hidronefrosis prenatal?",
+      "opciones": [
+        "5%",
+        "16%",
+        "30%",
+        "50%"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La prevalencia del reflujo vesicoureteral (RVU) en niños con hidronefrosis prenatal es del 16%.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 3",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal mecanismo de defensa frente a las infecciones urinarias (IU) en niños?",
+      "opciones": [
+        "Uso de antibióticos",      
+        "Vaciamiento vesical frecuente y completo",
+        "Profilaxis antibiótica",
+        "Cirugía correctiva"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El principal mecanismo de defensa frente a las infecciones urinarias (IU) en niños es el vaciamiento vesical frecuente y completo, ya que evita la acumulación de bacterias en la vejiga.",
+      "fuente": "IVU.pdf, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la duración recomendada del tratamiento antibiótico para una infección urinaria febril no complicada en niños?",
+      "opciones": [
+        "3-5 días",
+        "7-10 días",
+        "14 días",
+        "21 días"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "La duración recomendada del tratamiento antibiótico para una infección urinaria febril no complicada en niños es de 7-10 días, pudiendo prolongarse en casos de complicaciones o mala evolución.",
+      "fuente": "IVU.pdf, página 14",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal factor de riesgo para la presencia de daño renal permanente en niños con infecciones urinarias (IU)?",
+      "opciones": [
+        "Fiebre elevada",
+        "RVU de alto grado",
+        "Bacteriuria asintomática",
+        "Uso de antibióticos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El principal factor de riesgo para la presencia de daño renal permanente en niños con infecciones urinarias (IU) es el reflujo vesicoureteral (RVU) de alto grado, ya que aumenta el riesgo de cicatrices renales.",
+      "fuente": "IVU.pdf, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la técnica de imagen considerada patrón oro para el diagnóstico de daño renal en niños con reflujo vesicoureteral (RVU)?",
+      "opciones": [
+        "Ecografía renal",
+        "Cistografía isotópica",
+        "Gammagrafía renal con DMSA",
+        "TAC abdominal"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La gammagrafía renal con DMSA es la técnica considerada patrón oro para el diagnóstico de daño renal en niños con reflujo vesicoureteral (RVU), ya que permite detectar cicatrices renales y evaluar la función renal diferencial.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento quirúrgico más utilizado en niños con reflujo vesicoureteral (RVU) en la República Dominicana?",
+      "opciones": [
+        "Reimplante ureteral abierto",
+        "Inyección subureteral endoscópica",
+        "Nefrectomía",
+        "Diálisis"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El tratamiento quirúrgico más utilizado en niños con reflujo vesicoureteral (RVU) en la República Dominicana es el reimplante ureteral abierto, que es una técnica quirúrgica estándar con excelentes resultados.",
+      "fuente": "LESION RENAL AGUDA.docx, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la clasificación de RIFLE para la lesión renal aguda (LRA) que indica un aumento de la creatinina sérica de 2 veces su valor basal?",
+      "opciones": [
+        "Riesgo (Risk)",
+        "Lesión (Injury)",
+        "Fracaso (Failure)",
+        "Pérdida (Loss)"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "En la clasificación de RIFLE, un aumento de la creatinina sérica de 2 veces su valor basal corresponde a la categoría 'Lesión (Injury)', que indica un daño renal moderado.",
+      "fuente": "RIFLE.jpg, página 1",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el estadio 1 de la clasificación de AKIN para la lesión renal aguda (LRA)?",
+      "opciones": [
+        "Aumento de la creatinina sérica en 1.5 veces o ≥ 0.3 mg/dl respecto al valor basal",
+        "Aumento de la creatinina sérica en 2 veces su valor basal",
+        "Aumento de la creatinina sérica en 3 veces su valor basal",
+        "Pérdida completa de la función renal"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El estadio 1 de la clasificación de AKIN para la lesión renal aguda (LRA) se define como un aumento de la creatinina sérica en 1.5 veces o ≥ 0.3 mg/dl respecto al valor basal.",
+      "fuente": "AKIN.jpg, página 1",
+      "categoria": "Nefrología"
+    },
+    {
+        "pregunta": "¿Cuál es la causa más frecuente de lesión renal aguda (LRA) en la población pediátrica?",
+        "opciones": [
+          "Shock séptico",
+          "Deshidratación",
+          "Hipoperfusión renal",
+          "Nefrotoxicos"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La causa más frecuente de lesión renal aguda (LRA) en la población pediátrica es la hipoperfusión renal, que puede ser causada por deshidratación, shock séptico o insuficiencia cardíaca.",
+        "fuente": "LESION RENAL AGUDA.docx, página 1",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento inicial recomendado para la lesión renal aguda (LRA) de origen prerrenal?",
+        "opciones": [
+          "Diálisis",
+          "Fluidoterapia",
+          "Antibióticos",
+          "Cirugía"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El tratamiento inicial recomendado para la lesión renal aguda (LRA) de origen prerrenal es la fluidoterapia, ya que busca restaurar el volumen intravascular y mejorar la perfusión renal.",
+        "fuente": "LESION RENAL AGUDA.docx, página 1",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal síntoma clínico de la hidronefrosis en recién nacidos?",
+        "opciones": [
+          "Dolor abdominal",
+          "Fiebre",
+          "Edema",
+          "Asintomático"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "La hidronefrosis en recién nacidos suele ser asintomática y se detecta principalmente mediante ecografía prenatal o postnatal.",
+        "fuente": "HIDRONEFROSIS.pptx, slide 2",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal complicación de la hidronefrosis no tratada en niños?",
+        "opciones": [
+          "Infección urinaria",
+          "Insuficiencia renal",
+          "Hipertensión arterial",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "La hidronefrosis no tratada en niños puede llevar a complicaciones como infecciones urinarias, insuficiencia renal e hipertensión arterial.",
+        "fuente": "HIDRONEFROSIS.pptx, slide 4",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento recomendado para el reflujo vesicoureteral (RVU) grado I-II en niños?",
+        "opciones": [
+          "Cirugía inmediata",
+          "Profilaxis antibiótica",
+          "Manejo conservador",
+          "Diálisis"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El tratamiento recomendado para el reflujo vesicoureteral (RVU) grado I-II en niños es el manejo conservador, ya que la mayoría de los casos se resuelven espontáneamente con el tiempo.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal síntoma de la pielonefritis aguda en niños?",
+        "opciones": [
+          "Dolor abdominal",
+          "Fiebre",
+          "Edema",
+          "Hematuria"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El principal síntoma de la pielonefritis aguda en niños es la fiebre, que suele ser alta y acompañada de malestar general.",
+        "fuente": "IVU.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal agente causal de la pielonefritis aguda en niños?",
+        "opciones": [
+          "Klebsiella pneumoniae",
+          "Proteus mirabilis",
+          "Escherichia coli",
+          "Enterococcus spp."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El principal agente causal de la pielonefritis aguda en niños es Escherichia coli, que representa la mayoría de los casos.",
+        "fuente": "IVU.pdf, página 3",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la técnica de imagen recomendada para el seguimiento del reflujo vesicoureteral (RVU) en niños?",
+        "opciones": [
+          "Ecografía renal",
+          "Cistografía isotópica",
+          "Gammagrafía renal con DMSA",
+          "TAC abdominal"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La cistografía isotópica es la técnica recomendada para el seguimiento del reflujo vesicoureteral (RVU) en niños, ya que permite evaluar la persistencia o resolución del reflujo.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal factor de riesgo para el desarrollo de cicatrices renales en niños con infecciones urinarias (IU)?",
+        "opciones": [
+          "Fiebre elevada",
+          "RVU de alto grado",
+          "Bacteriuria asintomática",
+          "Uso de antibióticos"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El principal factor de riesgo para el desarrollo de cicatrices renales en niños con infecciones urinarias (IU) es el reflujo vesicoureteral (RVU) de alto grado, ya que aumenta el riesgo de daño renal.",
+        "fuente": "IVU.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la duración recomendada de la profilaxis antibiótica en niños con reflujo vesicoureteral (RVU) grado IV-V?",
+        "opciones": [
+          "3 meses",
+          "6 meses",
+          "1 año",
+          "2 años"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La duración recomendada de la profilaxis antibiótica en niños con reflujo vesicoureteral (RVU) grado IV-V es de 1 año, con reevaluación posterior.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento quirúrgico más utilizado para corregir el reflujo vesicoureteral (RVU) en niños con ITU recurrentes?",
+        "opciones": [
+          "Reimplante ureteral abierto",
+          "Inyección subureteral endoscópica",
+          "Nefrectomía",
+          "Diálisis"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El tratamiento quirúrgico más utilizado para corregir el reflujo vesicoureteral (RVU) en niños con ITU recurrentes es la inyección subureteral endoscópica, que es menos invasiva y tiene una alta tasa de éxito.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal complicación del síndrome nefrótico en niños?",
+        "opciones": [
+          "Infecciones",
+          "Tromboembolismo",
+          "Insuficiencia renal",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "El síndrome nefrótico en niños puede complicarse con infecciones, tromboembolismo e insuficiencia renal, entre otras complicaciones.",
+        "fuente": "SINDROME NEFROTICO.pptx, slide 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la dosis inicial de prednisona recomendada para el tratamiento del síndrome nefrótico en niños?",
+        "opciones": [
+          "1 mg/kg/día",
+          "2 mg/kg/día",
+          "3 mg/kg/día",
+          "4 mg/kg/día"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La dosis inicial de prednisona recomendada para el tratamiento del síndrome nefrótico en niños es de 2 mg/kg/día o 60 mg/m2.",
+        "fuente": "SINDROME NEFROTICO.pptx, slide 7",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal causa de síndrome nefrótico congénito en niños?",
+        "opciones": [
+          "Mutaciones en el gen NPHS1",
+          "Infecciones virales",
+          "Uso de medicamentos",
+          "Enfermedades autoinmunes"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La principal causa de síndrome nefrótico congénito en niños son las mutaciones en el gen NPHS1, que afecta la estructura del glomérulo renal.",
+        "fuente": "SINDROME NEFROTICO.pptx, slide 3",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico de cicatrices renales en niños?",
+        "opciones": [
+          "Ecografía renal",
+          "Cistografía isotópica",
+          "Gammagrafía renal con DMSA",
+          "TAC abdominal"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La gammagrafía renal con DMSA es la técnica recomendada para el diagnóstico de cicatrices renales en niños, ya que permite detectar áreas de daño renal.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal síntoma de la cistitis en niños?",
+        "opciones": [
+          "Fiebre",
+          "Dolor abdominal",
+          "Disuria",
+          "Edema"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El principal síntoma de la cistitis en niños es la disuria, que se manifiesta como dolor o ardor al orinar.",
+        "fuente": "IVU.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento recomendado para la cistitis no complicada en niñas mayores de 12 años?",
+        "opciones": [
+          "Fosfomicina en dosis única",
+          "Amoxicilina-clavulánico por 7 días",
+          "Ciprofloxacino por 5 días",
+          "Nitrofurantoína por 7 días"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El tratamiento recomendado para la cistitis no complicada en niñas mayores de 12 años es la fosfomicina en dosis única, que es efectiva y de corta duración.",
+        "fuente": "IVU.pdf, página 14",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal complicación de la lesión renal aguda (LRA) no tratada?",
+        "opciones": [
+          "Insuficiencia renal crónica",
+          "Hipertensión arterial",
+          "Infecciones recurrentes",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "La lesión renal aguda (LRA) no tratada puede llevar a complicaciones como insuficiencia renal crónica, hipertensión arterial e infecciones recurrentes.",
+        "fuente": "LESION RENAL AGUDA.docx, página 1",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal factor de riesgo para la lesión renal aguda (LRA) en pacientes ingresados en UCI?",
+        "opciones": [
+          "Uso de nefrotoxicos",
+          "Shock séptico",
+          "Deshidratación",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "Los principales factores de riesgo para la lesión renal aguda (LRA) en pacientes ingresados en UCI incluyen el uso de nefrotoxicos, shock séptico y deshidratación.",
+        "fuente": "LESION RENAL AGUDA.docx, página 1",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal causa de lesión renal aguda (LRA) en pacientes pediátricos sometidos a cirugía cardíaca?",
+        "opciones": [
+          "Hipoperfusión renal",
+          "Nefrotoxicos",
+          "Shock séptico",
+          "Obstrucción urinaria"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La principal causa de lesión renal aguda (LRA) en pacientes pediátricos sometidos a cirugía cardíaca es la hipoperfusión renal, debido a la disminución del flujo sanguíneo durante el procedimiento quirúrgico.",
+        "fuente": "LESION RENAL AGUDA.docx, página 1",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal síntoma de la necrosis tubular aguda (NTA) en pacientes con lesión renal aguda (LRA)?",
+        "opciones": [
+          "Oliguria",
+          "Fiebre",
+          "Edema",
+          "Hematuria"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El principal síntoma de la necrosis tubular aguda (NTA) en pacientes con lesión renal aguda (LRA) es la oliguria, que se manifiesta como una disminución significativa en la producción de orina.",
+        "fuente": "LESION RENAL AGUDA.docx, página 1",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento recomendado para la hidronefrosis moderada en recién nacidos?",
+        "opciones": [
+          "Cirugía inmediata",
+          "Manejo conservador y seguimiento",
+          "Diálisis",
+          "Profilaxis antibiótica"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El tratamiento recomendado para la hidronefrosis moderada en recién nacidos es el manejo conservador y seguimiento, ya que en muchos casos no requiere intervención quirúrgica inmediata.",
+        "fuente": "HIDRONEFROSIS.pptx, slide 4",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal complicación de la hidronefrosis severa no tratada en niños?",
+        "opciones": [
+          "Infección urinaria",
+          "Insuficiencia renal",
+          "Hipertensión arterial",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "La hidronefrosis severa no tratada en niños puede llevar a complicaciones como infecciones urinarias, insuficiencia renal e hipertensión arterial.",
+        "fuente": "HIDRONEFROSIS.pptx, slide 4",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal síntoma de la válvula de uretra posterior en recién nacidos?",
+        "opciones": [
+          "Dificultad para orinar",
+          "Fiebre",
+          "Edema",
+          "Hematuria"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El principal síntoma de la válvula de uretra posterior en recién nacidos es la dificultad para orinar, debido a la obstrucción del flujo urinario.",
+        "fuente": "HIDRONEFROSIS.pptx, slide 6",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento recomendado para la válvula de uretra posterior en recién nacidos?",
+        "opciones": [
+          "Cirugía correctiva",
+          "Manejo conservador",
+          "Diálisis",
+          "Profilaxis antibiótica"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El tratamiento recomendado para la válvula de uretra posterior en recién nacidos es la cirugía correctiva, ya que es una condición obstructiva que requiere intervención quirúrgica.",
+        "fuente": "HIDRONEFROSIS.pptx, slide 6",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal causa de reflujo vesicoureteral (RVU) primario en niños?",
+        "opciones": [
+          "Anomalía en la unión ureterovesical",
+          "Infecciones urinarias recurrentes",
+          "Obstrucción uretral",
+          "Trauma renal"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La principal causa de reflujo vesicoureteral (RVU) primario en niños es una anomalía en la unión ureterovesical, que permite el paso retrógrado de la orina desde la vejiga al uréter.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 2",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el principal factor de riesgo para el desarrollo de nefropatía por reflujo en niños?",
+        "opciones": [
+          "RVU de bajo grado",
+          "RVU de alto grado",
+          "Bacteriuria asintomática",
+          "Uso de antibióticos"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El principal factor de riesgo para el desarrollo de nefropatía por reflujo en niños es el reflujo vesicoureteral (RVU) de alto grado, ya que aumenta el riesgo de daño renal.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 3",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico de cicatrices renales en niños con reflujo vesicoureteral (RVU)?",
+        "opciones": [
+          "Ecografía renal",
+          "Cistografía isotópica",
+          "Gammagrafía renal con DMSA",
+          "TAC abdominal"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La gammagrafía renal con DMSA es la técnica recomendada para el diagnóstico de cicatrices renales en niños con reflujo vesicoureteral (RVU), ya que permite detectar áreas de daño renal.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es el tratamiento recomendado para el reflujo vesicoureteral (RVU) grado III en niños?",
+        "opciones": [
+          "Cirugía inmediata",
+          "Profilaxis antibiótica",
+          "Manejo conservador",
+          "Diálisis"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El tratamiento recomendado para el reflujo vesicoureteral (RVU) grado III en niños es la profilaxis antibiótica, especialmente si hay riesgo de infecciones urinarias recurrentes.",
+        "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal complicación del síndrome nefrótico en niños no tratado?",
+        "opciones": [
+          "Infecciones",
+          "Tromboembolismo",
+          "Insuficiencia renal",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "El síndrome nefrótico en niños no tratado puede complicarse con infecciones, tromboembolismo e insuficiencia renal, entre otras complicaciones.",
+        "fuente": "SINDROME NEFROTICO.pptx, slide 5",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la dosis de prednisona recomendada para el tratamiento del síndrome nefrótico en días alternos?",
+        "opciones": [
+          "1 mg/kg/día",
+          "1.5 mg/kg/día",
+          "2 mg/kg/día",
+          "3 mg/kg/día"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La dosis de prednisona recomendada para el tratamiento del síndrome nefrótico en días alternos es de 1.5 mg/kg/día o 40 mg/m2.",
+        "fuente": "SINDROME NEFROTICO.pptx, slide 7",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal causa de síndrome nefrótico secundario en niños?",
+        "opciones": [
+          "Lupus eritematoso sistémico",
+          "Diabetes mellitus",
+          "Infecciones virales",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "El síndrome nefrótico secundario en niños puede ser causado por enfermedades sistémicas como lupus eritematoso sistémico, diabetes mellitus e infecciones virales.",
+        "fuente": "SINDROME NEFROTICO.pptx, slide 3",
+        "categoria": "Nefrología"
+      },
+      {
+        "pregunta": "¿Cuál es la principal causa de lesión renal aguda (LRA) en pacientes pediátricos sometidos a cirugía cardíaca?",
+    "opciones": [
+      "Hipoperfusión renal",
+      "Nefrotoxicos",
+      "Shock séptico",
+      "Obstrucción urinaria"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "La principal causa de lesión renal aguda (LRA) en pacientes pediátricos sometidos a cirugía cardíaca es la hipoperfusión renal, debido a la disminución del flujo sanguíneo durante el procedimiento quirúrgico.",
+    "fuente": "LESION RENAL AGUDA.docx, página 1",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal síntoma de la necrosis tubular aguda (NTA) en pacientes con lesión renal aguda (LRA)?",
+    "opciones": [
+      "Oliguria",
+      "Fiebre",
+      "Edema",
+      "Hematuria"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El principal síntoma de la necrosis tubular aguda (NTA) en pacientes con lesión renal aguda (LRA) es la oliguria, que se manifiesta como una disminución significativa en la producción de orina.",
+    "fuente": "LESION RENAL AGUDA.docx, página 1",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento recomendado para la hidronefrosis moderada en recién nacidos?",
+    "opciones": [
+      "Cirugía inmediata",
+      "Manejo conservador y seguimiento",
+      "Diálisis",
+      "Profilaxis antibiótica"
+    ],
+    "respuestaCorrecta": 1,
+    "justificacion": "El tratamiento recomendado para la hidronefrosis moderada en recién nacidos es el manejo conservador y seguimiento, ya que en muchos casos no requiere intervención quirúrgica inmediata.",
+    "fuente": "HIDRONEFROSIS.pptx, slide 4",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la principal complicación de la hidronefrosis severa no tratada en niños?",
+    "opciones": [
+      "Infección urinaria",
+      "Insuficiencia renal",
+      "Hipertensión arterial",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 3,
+    "justificacion": "La hidronefrosis severa no tratada en niños puede llevar a complicaciones como infecciones urinarias, insuficiencia renal e hipertensión arterial.",
+    "fuente": "HIDRONEFROSIS.pptx, slide 4",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal síntoma de la válvula de uretra posterior en recién nacidos?",
+    "opciones": [
+      "Dificultad para orinar",
+      "Fiebre",
+      "Edema",
+      "Hematuria"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El principal síntoma de la válvula de uretra posterior en recién nacidos es la dificultad para orinar, debido a la obstrucción del flujo urinario.",
+    "fuente": "HIDRONEFROSIS.pptx, slide 6",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento recomendado para la válvula de uretra posterior en recién nacidos?",
+    "opciones": [
+      "Cirugía correctiva",
+      "Manejo conservador",
+      "Diálisis",
+      "Profilaxis antibiótica"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El tratamiento recomendado para la válvula de uretra posterior en recién nacidos es la cirugía correctiva, ya que es una condición obstructiva que requiere intervención quirúrgica.",
+    "fuente": "HIDRONEFROSIS.pptx, slide 6",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la principal causa de reflujo vesicoureteral (RVU) primario en niños?",
+    "opciones": [
+      "Anomalía en la unión ureterovesical",
+      "Infecciones urinarias recurrentes",
+      "Obstrucción uretral",
+      "Trauma renal"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "La principal causa de reflujo vesicoureteral (RVU) primario en niños es una anomalía en la unión ureterovesical, que permite el paso retrógrado de la orina desde la vejiga al uréter.",
+    "fuente": "REFLUJO VESICOURETERAL.pdf, página 2",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal factor de riesgo para el desarrollo de nefropatía por reflujo en niños?",
+    "opciones": [
+      "RVU de bajo grado",
+      "RVU de alto grado",
+      "Bacteriuria asintomática",
+      "Uso de antibióticos"
+    ],
+    "respuestaCorrecta": 1,
+    "justificacion": "El principal factor de riesgo para el desarrollo de nefropatía por reflujo en niños es el reflujo vesicoureteral (RVU) de alto grado, ya que aumenta el riesgo de daño renal.",
+    "fuente": "REFLUJO VESICOURETERAL.pdf, página 3",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico de cicatrices renales en niños con reflujo vesicoureteral (RVU)?",
+    "opciones": [
+      "Ecografía renal",
+      "Cistografía isotópica",
+      "Gammagrafía renal con DMSA",
+      "TAC abdominal"
+    ],
+    "respuestaCorrecta": 2,
+    "justificacion": "La gammagrafía renal con DMSA es la técnica recomendada para el diagnóstico de cicatrices renales en niños con reflujo vesicoureteral (RVU), ya que permite detectar áreas de daño renal.",
+    "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento recomendado para el reflujo vesicoureteral (RVU) grado III en niños?",
+    "opciones": [
+      "Cirugía inmediata",
+      "Profilaxis antibiótica",
+      "Manejo conservador",
+      "Diálisis"
+    ],
+    "respuestaCorrecta": 1,
+    "justificacion": "El tratamiento recomendado para el reflujo vesicoureteral (RVU) grado III en niños es la profilaxis antibiótica, especialmente si hay riesgo de infecciones urinarias recurrentes.",
+    "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la principal complicación del síndrome nefrótico en niños no tratado?",
+    "opciones": [
+      "Infecciones",
+      "Tromboembolismo",
+      "Insuficiencia renal",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 3,
+    "justificacion": "El síndrome nefrótico en niños no tratado puede complicarse con infecciones, tromboembolismo e insuficiencia renal, entre otras complicaciones.",
+    "fuente": "SINDROME NEFROTICO.pptx, slide 5",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la dosis de prednisona recomendada para el tratamiento del síndrome nefrótico en días alternos?",
+    "opciones": [
+      "1 mg/kg/día",
+      "1.5 mg/kg/día",
+      "2 mg/kg/día",
+      "3 mg/kg/día"
+    ],
+    "respuestaCorrecta": 1,
+    "justificacion": "La dosis de prednisona recomendada para el tratamiento del síndrome nefrótico en días alternos es de 1.5 mg/kg/día o 40 mg/m2.",
+    "fuente": "SINDROME NEFROTICO.pptx, slide 7",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la principal causa de síndrome nefrótico secundario en niños?",
+    "opciones": [
+      "Lupus eritematoso sistémico",
+      "Diabetes mellitus",
+      "Infecciones virales",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 3,
+    "justificacion": "El síndrome nefrótico secundario en niños puede ser causado por enfermedades sistémicas como lupus eritematoso sistémico, diabetes mellitus e infecciones virales.",
+    "fuente": "SINDROME NEFROTICO.pptx, slide 3",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico de hidronefrosis en recién nacidos?",
+    "opciones": [
+      "Ecografía renal",
+      "Cistografía miccional seriada (CUMS)",
+      "Gammagrafía renal con DMSA",
+      "TAC abdominal"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "La ecografía renal es la técnica de imagen recomendada para el diagnóstico de hidronefrosis en recién nacidos, ya que es no invasiva y permite evaluar la dilatación del tracto urinario.",
+    "fuente": "HIDRONEFROSIS.pptx, slide 2",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal síntoma de la infección urinaria (IU) en lactantes menores de 3 meses?",
+    "opciones": [
+      "Fiebre sin foco",
+      "Dolor abdominal",
+      "Disuria",
+      "Edema"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El principal síntoma de la infección urinaria (IU) en lactantes menores de 3 meses es la fiebre sin foco, ya que los síntomas miccionales no son evidentes a esta edad.",
+    "fuente": "IVU.pdf, página 5",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento recomendado para la infección urinaria (IU) febril en niños menores de 3 meses?",
+    "opciones": [
+      "Antibióticos orales",
+      "Antibióticos intravenosos",
+      "Manejo conservador",
+      "Cirugía"
+    ],
+    "respuestaCorrecta": 1,
+    "justificacion": "El tratamiento recomendado para la infección urinaria (IU) febril en niños menores de 3 meses es con antibióticos intravenosos, debido al mayor riesgo de complicaciones graves.",
+    "fuente": "IVU.pdf, página 14",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la principal complicación de la lesión renal aguda (LRA) en pacientes pediátricos con shock séptico?",
+    "opciones": [
+      "Insuficiencia renal crónica",
+      "Hipertensión arterial",
+      "Infecciones recurrentes",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 3,
+    "justificacion": "La lesión renal aguda (LRA) en pacientes pediátricos con shock séptico puede llevar a complicaciones como insuficiencia renal crónica, hipertensión arterial e infecciones recurrentes.",
+    "fuente": "LESION RENAL AGUDA.docx, página 1",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal factor de riesgo para la lesión renal aguda (LRA) en pacientes con deshidratación severa?",
+    "opciones": [
+      "Hipoperfusión renal",
+      "Uso de nefrotoxicos",
+      "Shock séptico",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El principal factor de riesgo para la lesión renal aguda (LRA) en pacientes con deshidratación severa es la hipoperfusión renal, debido a la disminución del flujo sanguíneo a los riñones.",
+    "fuente": "LESION RENAL AGUDA.docx, página 1",
+    "categoria": "Nefrología"
+  },
+
+    {
+      "pregunta": "¿Cuál es la principal causa de lesión renal aguda (LRA) en pacientes pediátricos con quemaduras graves?",
+      "opciones": [
+        "Hipoperfusión renal",
+        "Nefrotoxicos",
+        "Shock séptico",
+        "Rabdomiólisis"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "La principal causa de lesión renal aguda (LRA) en pacientes pediátricos con quemaduras graves es la rabdomiólisis, que libera mioglobina y puede dañar los riñones.",
+      "fuente": "LESION RENAL AGUDA.docx, página 1",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal síntoma de la glomerulonefritis aguda postestreptocócica en niños?",
+      "opciones": [
+        "Edema",
+        "Hematuria macroscópica",
+        "Hipertensión arterial",
+        "Todas las anteriores"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "La glomerulonefritis aguda postestreptocócica en niños se caracteriza por la presencia de edema, hematuria macroscópica e hipertensión arterial.",
+      "fuente": "SINDROME NEFRITICO.pptx, slide 2",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento recomendado para la glomerulonefritis aguda postestreptocócica en niños?",
+      "opciones": [
+        "Diuréticos",
+        "Antibióticos",
+        "Corticoides",
+        "Inmunosupresores"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El tratamiento recomendado para la glomerulonefritis aguda postestreptocócica en niños incluye el uso de diuréticos para controlar el edema y la hipertensión arterial.",
+      "fuente": "SINDROME NEFRITICO.pptx, slide 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la principal complicación de la glomerulonefritis aguda no tratada en niños?",
+      "opciones": [
+        "Insuficiencia renal crónica",
+        "Hipertensión arterial",
+        "Infecciones recurrentes",
+        "Todas las anteriores"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "La glomerulonefritis aguda no tratada en niños puede llevar a complicaciones como insuficiencia renal crónica, hipertensión arterial e infecciones recurrentes.",
+      "fuente": "SINDROME NEFRITICO.pptx, slide 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la principal causa de hidronefrosis en recién nacidos con duplicidad pieloureteral?",
+      "opciones": [
+        "Reflujo vesicoureteral",
+        "Estenosis de la unión pieloureteral",
+        "Ureterocele",
+        "Riñón multiquístico"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La principal causa de hidronefrosis en recién nacidos con duplicidad pieloureteral es el ureterocele, que puede obstruir el flujo de orina.",
+      "fuente": "HIDRONEFROSIS.pptx, slide 6",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento recomendado para el ureterocele en recién nacidos?",
+      "opciones": [
+        "Cirugía correctiva",
+        "Manejo conservador",
+        "Diálisis",
+        "Profilaxis antibiótica"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El tratamiento recomendado para el ureterocele en recién nacidos es la cirugía correctiva, ya que es una condición obstructiva que requiere intervención quirúrgica.",
+      "fuente": "HIDRONEFROSIS.pptx, slide 6",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la principal causa de reflujo vesicoureteral (RVU) secundario en niños?",
+      "opciones": [
+        "Válvulas de uretra posterior",
+        "Infecciones urinarias recurrentes",
+        "Obstrucción uretral",
+        "Trauma renal"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "La principal causa de reflujo vesicoureteral (RVU) secundario en niños son las válvulas de uretra posterior, que obstruyen el flujo urinario y causan reflujo.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 2",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el principal factor de riesgo para el desarrollo de nefropatía por reflujo en niños con disfunción vesical?",
+      "opciones": [
+        "RVU de bajo grado",
+        "RVU de alto grado",
+        "Bacteriuria asintomática",
+        "Uso de antibióticos"
+      ],
+      "respuestaCorrecta": 1,
+      "justificacion": "El principal factor de riesgo para el desarrollo de nefropatía por reflujo en niños con disfunción vesical es el reflujo vesicoureteral (RVU) de alto grado, ya que aumenta el riesgo de daño renal.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 3",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico de cicatrices renales en niños con infecciones urinarias recurrentes?",
+      "opciones": [
+        "Ecografía renal",
+        "Cistografía isotópica",
+        "Gammagrafía renal con DMSA",
+        "TAC abdominal"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La gammagrafía renal con DMSA es la técnica recomendada para el diagnóstico de cicatrices renales en niños con infecciones urinarias recurrentes, ya que permite detectar áreas de daño renal.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es el tratamiento recomendado para el reflujo vesicoureteral (RVU) grado IV en niños con ITU recurrentes?",
+      "opciones": [
+        "Cirugía inmediata",
+        "Profilaxis antibiótica",
+        "Manejo conservador",
+        "Diálisis"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "El tratamiento recomendado para el reflujo vesicoureteral (RVU) grado IV en niños con ITU recurrentes es la cirugía correctiva, ya que el riesgo de daño renal es alto.",
+      "fuente": "REFLUJO VESICOURETERAL.pdf, página 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la principal complicación del síndrome nefrótico en niños tratados con corticoides?",
+      "opciones": [
+        "Infecciones",
+        "Tromboembolismo",
+        "Insuficiencia renal",
+        "Todas las anteriores"
+      ],
+      "respuestaCorrecta": 3,
+      "justificacion": "El síndrome nefrótico en niños tratados con corticoides puede complicarse con infecciones, tromboembolismo e insuficiencia renal, entre otras complicaciones.",
+      "fuente": "SINDROME NEFROTICO.pptx, slide 5",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la dosis de prednisona recomendada para el tratamiento del síndrome nefrótico en niños con recaídas frecuentes?",
+      "opciones": [
+        "1 mg/kg/día",
+        "1.5 mg/kg/día",
+        "2 mg/kg/día",
+        "3 mg/kg/día"
+      ],
+      "respuestaCorrecta": 2,
+      "justificacion": "La dosis de prednisona recomendada para el tratamiento del síndrome nefrótico en niños con recaídas frecuentes es de 2 mg/kg/día o 60 mg/m2.",
+      "fuente": "SINDROME NEFROTICO.pptx, slide 7",
+      "categoria": "Nefrología"
+    },
+    {
+      "pregunta": "¿Cuál es la principal causa de síndrome nefrótico congénito en niños menores de 3 meses?",
+      "opciones": [
+        "Mutaciones en el gen NPHS1",
+        "Infecciones virales",
+        "Uso de medicamentos",
+        "Enfermedades autoinmunes"
+      ],
+      "respuestaCorrecta": 0,
+      "justificacion": "La principal causa de síndrome nefrótico congénito en niños menores de 3 meses son las mutaciones en el gen NPHS1, que afecta la estructura del glomérulo renal.",
+    "fuente": "SINDROME NEFROTICO.pptx, slide 3",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la técnica de imagen recomendada para el diagnóstico de hidronefrosis en recién nacidos con sospecha de obstrucción?",
+    "opciones": [
+      "Ecografía renal",
+      "Cistografía miccional seriada (CUMS)",
+      "Gammagrafía renal con DMSA",
+      "TAC abdominal"
+    ],
+    "respuestaCorrecta": 1,
+    "justificacion": "La cistografía miccional seriada (CUMS) es la técnica recomendada para el diagnóstico de hidronefrosis en recién nacidos con sospecha de obstrucción, ya que permite evaluar el flujo urinario.",
+    "fuente": "HIDRONEFROSIS.pptx, slide 2",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal síntoma de la infección urinaria (IU) en niños mayores de 2 años?",
+    "opciones": [
+      "Fiebre sin foco",
+      "Dolor abdominal",
+      "Disuria",
+      "Edema"
+    ],
+    "respuestaCorrecta": 2,
+    "justificacion": "El principal síntoma de la infección urinaria (IU) en niños mayores de 2 años es la disuria, que se manifiesta como dolor o ardor al orinar.",
+    "fuente": "IVU.pdf, página 5",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento recomendado para la infección urinaria (IU) febril en niños mayores de 3 meses?",
+    "opciones": [
+      "Antibióticos orales",
+      "Antibióticos intravenosos",
+      "Manejo conservador",
+      "Cirugía"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El tratamiento recomendado para la infección urinaria (IU) febril en niños mayores de 3 meses es con antibióticos orales, siempre que no presenten complicaciones graves.",
+    "fuente": "IVU.pdf, página 14",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es la principal complicación de la lesión renal aguda (LRA) en pacientes pediátricos con nefrotoxicos?",
+    "opciones": [
+      "Insuficiencia renal crónica",
+      "Hipertensión arterial",
+      "Infecciones recurrentes",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 3,
+    "justificacion": "La lesión renal aguda (LRA) en pacientes pediátricos con nefrotoxicos puede llevar a complicaciones como insuficiencia renal crónica, hipertensión arterial e infecciones recurrentes.",
+    "fuente": "LESION RENAL AGUDA.docx, página 1",
+    "categoria": "Nefrología"
+  },
+  {
+    "pregunta": "¿Cuál es el principal factor de riesgo para la lesión renal aguda (LRA) en pacientes con insuficiencia cardíaca?",
+    "opciones": [
+      "Hipoperfusión renal",
+      "Uso de nefrotoxicos",
+      "Shock séptico",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 0,
+    "justificacion": "El principal factor de riesgo para la lesión renal aguda (LRA) en pacientes con insuficiencia cardíaca es la hipoperfusión renal, debido a la disminución del flujo sanguíneo a los riñones.",
+    "fuente": "LESION RENAL AGUDA.docx, página 1",
+    "categoria": "Nefrología"
+  }
+]
+
